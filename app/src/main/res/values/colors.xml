@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Backgrounds -->
+    <color name="background_primary">#F6F3EC</color>
+    <color name="background_secondary">#EFE9DC</color>
+
+    <!-- Surfaces / cards -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_border">#E4DDCE</color>
+    <color name="card_border_soft">#ECE6DA</color>
+
+    <!-- Text -->
+    <color name="text_primary">#3A4050</color>
+    <color name="text_secondary">#6C7280</color>
+    <color name="text_hint">#9AA1AE</color>
+
+    <!-- Accent -->
+    <color name="accent_primary">#6F8FCF</color>
+    <color name="accent_secondary">#AFC3E8</color>
+
+    <!-- Button -->
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- Progress track / ripple -->
+    <color name="track_soft">#D6DDED</color>
+    <color name="track_ultra_soft">#E9EEF8</color>
+    <color name="selection_background">#EEF2FA</color>
+    <color name="ripple_soft">#2A6F8FCF</color>
+
+    <!-- Choice -->
+    <color name="choice_unselected_icon">#C9D3E6</color>
+    <color name="choice_selected_border">#6F8FCF</color>
+    <color name="choice_selected_bg">#EEF2FA</color>
+
+    <!-- Basic -->
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

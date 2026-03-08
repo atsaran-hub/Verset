@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Verset"
+        tools:targetApi="31">
+
+        <!-- ✅ Receiver reminder -->
+        <receiver
+            android:name=".DevotionReminderReceiver"
+            android:exported="false" />
+
+        <!-- ✅ LAUNCHER : PAGE TIKTOK -->
+        <activity
+            android:name=".Tiktoklike.FeedActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- ✅ Page Widget -->
+        <activity
+            android:name=".widgetcustome.widgetcustom"
+            android:exported="false" />
+
+        <!-- ✅ Page Profil (puisque tu l'as dans Tiktoklike) -->
+        <activity
+            android:name=".Tiktoklike.ProfileActivity"
+            android:exported="false" />
+
+        <!-- ✅ Receiver callback pin widget -->
+        <receiver
+            android:name=".widgetcustome.WidgetPinnedReceiver"
+            android:exported="false" />
+
+        <!-- MainActivity n'est plus launcher -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+
+        <!-- Autres pages -->
+        <activity android:name=".Onboarding.UserIntentPageActivity" android:exported="false" />
+        <activity android:name=".Onboarding.NamePageActivity" android:exported="false" />
+        <activity android:name=".Onboarding.AgePageActivity" android:exported="false" />
+        <activity android:name=".Onboarding.GenderPageActivity" android:exported="false" />
+        <activity android:name=".Onboarding.StreakGoalActivity" android:exported="false" />
+        <activity android:name=".Onboarding.GodRelationshipIntroActivity" android:exported="false" />
+        <activity android:name=".Onboarding.TraditionPageActivity" android:exported="false" />
+        <activity android:name=".Onboarding.RecueillementFrequencyActivity" android:exported="false" />
+        <activity android:name=".Onboarding.RelationshipPageActivity" android:exported="false" />
+        <activity android:name=".Onboarding.HowManyTimesADayActivity" android:exported="false" />
+        <activity android:name=".NotificationTimeActivity" android:exported="false" />
+        <activity android:name=".Onboarding.PremiumOfferActivity" android:exported="false" />
+        <activity android:name=".VerseTypeActivity" android:exported="false" />
+        <activity android:name=".Onboarding.OnboardingSummaryActivity" android:exported="false" />
+        <activity android:name=".ThemeActivity" android:exported="false" />
+        <activity android:name=".Onboarding.ActivityTone" android:exported="false" />
+
+        <activity
+            android:name=".DevotionReminderActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".WidgetCustomizeActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".FreeTryOutActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".WidgetReadyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Tiktoklike.ProfileActivity"
+            android:exported="false" />
+        <!-- ✅ Widget provider (corrigé : il est dans com.example.verset) -->
+        <receiver
+            android:name=".widgetcustome.VerseWidgetProvider"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/verse_widget_info" />
+        </receiver>
+
+    </application>
+</manifest>

@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widgetRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp">
+
+    <!-- Background -->
+    <ImageView
+        android:id="@+id/bgImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/theme_bg_dawn" />
+
+    <!-- Content -->
+    <LinearLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+
+        <!-- ========================================================= -->
+        <!-- TONE (base) -->
+        <!-- ========================================================= -->
+        <TextView
+            android:id="@+id/textTone_normal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="normal"
+            android:maxLines="1"
+            android:ellipsize="end" />
+
+        <TextView
+            android:id="@+id/textTone_bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textTone_italic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="italic"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textTone_bold_italic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold|italic"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:visibility="gone" />
+
+        <!-- ========================================================= -->
+        <!-- TONE outline BLACK (_olb) -> outline "épais" (bold + shadow fort) -->
+        <!-- ========================================================= -->
+        <TextView
+            android:id="@+id/textTone_normal_olb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textTone_bold_olb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textTone_italic_olb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textTone_bold_italic_olb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <!-- ========================================================= -->
+        <!-- TONE outline WHITE (_olw) -> outline "épais" -->
+        <!-- ========================================================= -->
+        <TextView
+            android:id="@+id/textTone_normal_olw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textTone_bold_olw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textTone_italic_olw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textTone_bold_italic_olw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calm &amp; gentle"
+            android:textSize="12sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+
+        <!-- ========================================================= -->
+        <!-- VERSE (base) -->
+        <!-- ========================================================= -->
+        <TextView
+            android:id="@+id/textVerse_normal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="normal"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end" />
+
+        <TextView
+            android:id="@+id/textVerse_bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textVerse_italic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="italic"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textVerse_bold_italic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold|italic"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:visibility="gone" />
+
+        <!-- VERSE outline BLACK -->
+        <TextView
+            android:id="@+id/textVerse_normal_olb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textVerse_bold_olb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textVerse_italic_olb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textVerse_bold_italic_olb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <!-- VERSE outline WHITE -->
+        <TextView
+            android:id="@+id/textVerse_normal_olw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textVerse_bold_olw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textVerse_italic_olw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textVerse_bold_italic_olw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be still, and know that I am God."
+            android:textSize="14sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:layout_marginTop="6dp"
+            android:maxLines="4"
+            android:ellipsize="end"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+
+        <!-- ========================================================= -->
+        <!-- REF (base) -->
+        <!-- ========================================================= -->
+        <TextView
+            android:id="@+id/textRef_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="normal"
+            android:alpha="0.75"
+            android:layout_marginTop="4dp" />
+
+        <TextView
+            android:id="@+id/textRef_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            android:alpha="0.75"
+            android:layout_marginTop="4dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textRef_italic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="italic"
+            android:alpha="0.75"
+            android:layout_marginTop="4dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textRef_bold_italic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold|italic"
+            android:alpha="0.75"
+            android:layout_marginTop="4dp"
+            android:visibility="gone" />
+
+        <!-- REF outline BLACK -->
+        <TextView
+            android:id="@+id/textRef_normal_olb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:alpha="0.9"
+            android:layout_marginTop="4dp"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textRef_bold_olb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:alpha="0.9"
+            android:layout_marginTop="4dp"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textRef_italic_olb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:alpha="0.9"
+            android:layout_marginTop="4dp"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textRef_bold_italic_olb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:alpha="0.9"
+            android:layout_marginTop="4dp"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#000000"
+            android:visibility="gone" />
+
+        <!-- REF outline WHITE -->
+        <TextView
+            android:id="@+id/textRef_normal_olw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:alpha="0.9"
+            android:layout_marginTop="4dp"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textRef_bold_olw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02"
+            android:alpha="0.9"
+            android:layout_marginTop="4dp"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textRef_italic_olw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:alpha="0.9"
+            android:layout_marginTop="4dp"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textRef_bold_italic_olw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Psalm 46:10"
+            android:textSize="11sp"
+            android:textStyle="bold|italic"
+            android:letterSpacing="0.02"
+            android:alpha="0.9"
+            android:layout_marginTop="4dp"
+            android:shadowRadius="4.8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowColor="#FFFFFF"
+            android:visibility="gone" />
+
+    </LinearLayout>
+</FrameLayout>

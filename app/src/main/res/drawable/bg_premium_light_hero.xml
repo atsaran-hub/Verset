@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base ivoire -->
+    <item>
+        <shape>
+            <solid android:color="#F6F3EC"/>
+        </shape>
+    </item>
+
+    <!-- Lumière ciel en haut -->
+    <item>
+        <shape>
+            <gradient
+                android:angle="90"
+                android:startColor="#E6EEFF"
+                android:centerColor="#F6F3EC"
+                android:endColor="#F6F3EC"/>
+        </shape>
+    </item>
+
+    <!-- Vignette très légère (effet photo premium) -->
+    <item>
+        <shape>
+            <gradient
+                android:type="radial"
+                android:gradientRadius="560dp"
+                android:centerX="0.5"
+                android:centerY="0.2"
+                android:startColor="#00FFFFFF"
+                android:endColor="#14000000"/>
+        </shape>
+    </item>
+
+</layer-list>

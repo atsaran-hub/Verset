@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_primary">
+
+    <ScrollView
+        android:id="@+id/mainScroll"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/bottomNav"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Widget"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="Choose a theme for your home widget."
+                android:textSize="14sp"
+                android:textColor="@color/text_secondary"/>
+
+            <!-- Preview -->
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/widgetPreviewRoot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                app:cardCornerRadius="18dp"
+                app:cardElevation="0dp"
+                app:strokeWidth="1dp"
+                app:strokeColor="@color/card_border_soft"
+                android:backgroundTint="@color/card_background">
+
+                <include
+                    android:id="@+id/widgetPreviewInclude"
+                    layout="@layout/include_widget_preview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnAddWidget"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="18dp"
+                android:text="Add widget to home screen"
+                android:textAllCaps="false"
+                app:cornerRadius="14dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="22dp"
+                android:text="THEMES"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:textColor="@color/text_secondary"/>
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:overScrollMode="never"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!-- Helper tile 120x160 -->
+
+                    <!-- Dawn -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardDawn"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView
+                                android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop"
+                                android:src="@drawable/theme_bg_dawn"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View
+                            android:id="@+id/themeSelDawn"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- ocean_serenity -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardOceanSerenity"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_ocean_serenity"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelOceanSerenity"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- soft_flame -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardSoftFlame"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_soft_flame"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelSoftFlame"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- silent_forest -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardSilentForest"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_silent_forest"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelSilentForest"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- midnight_calm -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardMidnightCalm"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_midnight_calm"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelMidnightCalm"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- floating_clouds -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardFloatingClouds"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_floating_clouds"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelFloatingClouds"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- light_particles -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardLightParticles"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_light_particles"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelLightParticles"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- deep_galaxy -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardDeepGalaxy"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_deep_galaxy"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelDeepGalaxy"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- cross_eternal_light -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardCrossEternalLight"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_cross_eternal_light"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelCrossEternalLight"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- cross_eternal_dark -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardCrossEternalDark"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_cross_eternal_dark"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelCrossEternalDark"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- cross_glory -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardCrossGlory"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_cross_glory"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelCrossGlory"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- faith_minimal -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardFaithMinimal"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_faith_minimal"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelFaithMinimal"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- ocean_night -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardOceanNight"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_ocean_night"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelOceanNight"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                    <!-- sunset_photo -->
+                    <FrameLayout android:layout_width="120dp" android:layout_height="160dp" android:layout_marginEnd="12dp">
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/themeCardSunsetPhoto"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            app:cardCornerRadius="18dp" app:cardElevation="0dp"
+                            app:strokeWidth="1dp" app:strokeColor="@color/card_border_soft">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                                android:scaleType="centerCrop" android:src="@drawable/theme_bg_sunset_photo"
+                                android:contentDescription="@null"/>
+                        </com.google.android.material.card.MaterialCardView>
+                        <View android:id="@+id/themeSelSunsetPhoto"
+                            android:layout_width="match_parent" android:layout_height="match_parent"
+                            android:background="@drawable/bg_dot_selected_overlay"
+                            android:visibility="gone"/>
+                    </FrameLayout>
+
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <View android:layout_width="match_parent" android:layout_height="18dp"/>
+            <!-- TEXT SETTINGS -->
+            <TextView
+                android:id="@+id/textSettingsTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="TEXT"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:textColor="@color/text_secondary"/>
+
+            <!-- Color dots -->
+            <LinearLayout
+                android:id="@+id/textColorRow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <!-- WHITE -->
+                <FrameLayout
+                    android:layout_width="34dp"
+                    android:layout_height="34dp"
+                    android:layout_marginEnd="10dp">
+
+                    <View
+                        android:id="@+id/colorDotWhite"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/bg_color_dot_white" />
+
+                    <View
+                        android:id="@+id/colorSelWhite"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/bg_color_selected_ring"
+                        android:visibility="gone" />
+                </FrameLayout>
+
+                <!-- BLACK -->
+                <FrameLayout
+                    android:layout_width="34dp"
+                    android:layout_height="34dp"
+                    android:layout_marginEnd="10dp">
+
+                    <View
+                        android:id="@+id/colorDotBlack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/bg_color_dot_black" />
+
+                    <View
+                        android:id="@+id/colorSelBlack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/bg_color_selected_ring"
+                        android:visibility="gone" />
+                </FrameLayout>
+
+                <!-- BLUE -->
+                <FrameLayout
+                    android:layout_width="34dp"
+                    android:layout_height="34dp"
+                    android:layout_marginEnd="10dp">
+
+                    <View
+                        android:id="@+id/colorDotBlue"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/bg_color_dot_blue" />
+
+                    <View
+                        android:id="@+id/colorSelBlue"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/bg_color_selected_ring"
+                        android:visibility="gone" />
+                </FrameLayout>
+
+                <!-- GOLD -->
+                <FrameLayout
+                    android:layout_width="34dp"
+                    android:layout_height="34dp"
+                    android:layout_marginEnd="10dp">
+
+                    <View
+                        android:id="@+id/colorDotGold"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/bg_color_dot_gold" />
+
+                    <View
+                        android:id="@+id/colorSelGold"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/bg_color_selected_ring"
+                        android:visibility="gone" />
+                </FrameLayout>
+
+            </LinearLayout>
+
+            <!-- Bold / Italic -->
+            <com.google.android.material.button.MaterialButtonToggleGroup
+                android:id="@+id/styleToggleGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                app:singleSelection="false">
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/toggleBold"
+                    style="@style/Widget.Material3.Button.OutlinedButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:text="Bold"
+                    android:textAllCaps="false"/>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/toggleItalic"
+                    style="@style/Widget.Material3.Button.OutlinedButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:text="Italic"
+                    android:textAllCaps="false"/>
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/toggleOutline"
+                    style="@style/Widget.Material3.Button.OutlinedButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:text="Outline"
+                    android:textAllCaps="false"/>
+            </com.google.android.material.button.MaterialButtonToggleGroup>
+
+
+
+            <TextView
+                android:id="@+id/textSizeLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:text="Text size"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:textColor="@color/text_secondary"/>
+
+            <com.google.android.material.slider.Slider
+                android:id="@+id/textSizeSlider"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:valueFrom="10"
+                android:valueTo="22"
+                android:stepSize="1"
+                android:value="14" />
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNav"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/card_background"
+        app:menu="@menu/menu_bottom_nav"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

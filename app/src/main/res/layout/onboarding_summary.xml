@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_premium_light_hero">
+
+    <!-- Back pill -->
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/backPill"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="14dp"
+        app:cardCornerRadius="22dp"
+        app:cardElevation="0dp"
+        app:strokeWidth="1dp"
+        app:strokeColor="@color/card_border"
+        android:backgroundTint="@color/card_background"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageButton
+            android:id="@+id/btnBack"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Back"
+            android:padding="10dp"
+            android:src="@drawable/ic_back"
+            app:tint="@color/text_primary"/>
+    </com.google.android.material.card.MaterialCardView>
+
+    <!-- Bottom CTA -->
+    <LinearLayout
+        android:id="@+id/bottomArea"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingTop="10dp"
+        android:paddingBottom="20dp"
+        android:background="@drawable/bg_bottom_fade_soft"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonContinue"
+            style="@style/Widget.App.PremiumCta"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginEnd="24dp"
+            android:text="Continue"
+            android:letterSpacing="0.02"
+            app:backgroundTint="@null"
+            app:iconTint="@null" />
+
+        <TextView
+            android:id="@+id/textHint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="You can edit these later in Settings."
+            android:textSize="12sp"
+            android:textColor="@color/text_hint"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+    <!-- Scroll content -->
+    <ScrollView
+        android:id="@+id/scrollRoot"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        app:layout_constraintTop_toBottomOf="@id/backPill"
+        app:layout_constraintBottom_toTopOf="@id/bottomArea"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="24dp"
+            android:paddingEnd="24dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="12dp">
+
+            <!-- Progress -->
+            <com.google.android.material.progressindicator.LinearProgressIndicator
+                android:id="@+id/progressBar"
+                android:layout_width="220dp"
+                android:layout_height="5dp"
+                android:layout_marginTop="14dp"
+                android:layout_marginBottom="14dp"
+                android:max="100"
+                android:progress="95"
+                app:indicatorColor="@color/accent_primary"
+                app:trackColor="#E9EEF8" />
+
+            <!-- Aura + Mascot -->
+            <FrameLayout
+                android:layout_width="190dp"
+                android:layout_height="190dp"
+                android:layout_marginBottom="8dp">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/bg_soft_aura_premium"/>
+
+                <ImageView
+                    android:id="@+id/imageMascotte"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="Mascot"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/mascotte" />
+            </FrameLayout>
+
+            <!-- Accent line -->
+            <View
+                android:layout_width="42dp"
+                android:layout_height="6dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/bg_accent_pill_premium" />
+
+            <!-- Title -->
+            <TextView
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Your setup looks great ✨"
+                android:textSize="24sp"
+                android:lineSpacingExtra="4dp"
+                android:letterSpacing="0.01"
+                android:textStyle="bold"
+                android:fontFamily="serif"
+                android:textColor="@color/text_primary"
+                android:gravity="center"
+                android:layout_marginBottom="6dp" />
+
+            <!-- Subtitle -->
+            <TextView
+                android:id="@+id/textSubtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Here’s what you chose. We’ll personalize your verses and reminders."
+                android:textSize="14sp"
+                android:textColor="@color/text_secondary"
+                android:gravity="center"
+                android:lineSpacingExtra="5dp"
+                android:layout_marginBottom="14dp" />
+
+            <!-- Summary card -->
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/summaryCard"
+                style="@style/Widget.App.ChoiceCard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:focusable="false">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp">
+
+                    <!-- Row helper -->
+                    <!-- Each row: left label + right value -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="6dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Name"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_secondary"/>
+
+                        <TextView
+                            android:id="@+id/valueName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="—"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+
+                    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#14000000"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="6dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Age"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_secondary"/>
+
+                        <TextView
+                            android:id="@+id/valueAge"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="—"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+
+                    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#14000000"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="6dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Gender"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_secondary"/>
+
+                        <TextView
+                            android:id="@+id/valueGender"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="—"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+
+                    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#14000000"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="6dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Relationship"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_secondary"/>
+
+                        <TextView
+                            android:id="@+id/valueRelationship"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="—"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+
+                    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#14000000"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="6dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Tradition"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_secondary"/>
+
+                        <TextView
+                            android:id="@+id/valueTradition"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="—"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+
+                    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#14000000"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="6dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Prayer frequency"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_secondary"/>
+
+                        <TextView
+                            android:id="@+id/valuePrayerFrequency"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="—"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+
+                    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#14000000"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="6dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Verses per day"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_secondary"/>
+
+                        <TextView
+                            android:id="@+id/valueVersesPerDay"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="—"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+
+                    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#14000000"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="6dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Tone"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_secondary"/>
+
+                        <TextView
+                            android:id="@+id/valueTone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="—"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+
+                    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#14000000"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="6dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Streak goal"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_secondary"/>
+
+                        <TextView
+                            android:id="@+id/valueStreakGoal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="—"
+                            android:textSize="13sp"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="sans-serif-medium"/>
+                    </LinearLayout>
+
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="90dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

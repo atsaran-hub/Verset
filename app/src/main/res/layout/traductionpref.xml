@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_primary">
+
+    <ImageButton
+        android:id="@+id/btnBack"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/ic_back_black"
+        android:contentDescription="Back"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/bottomArea"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="@color/background_primary"
+        android:paddingTop="8dp"
+        android:paddingBottom="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:text="Next"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:backgroundTint="@color/accent_primary"
+            app:cornerRadius="30dp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollRoot"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        app:layout_constraintTop_toBottomOf="@id/btnBack"
+        app:layout_constraintBottom_toTopOf="@id/bottomArea"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:padding="24dp">
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginBottom="24dp"
+                android:max="100"
+                android:progress="0" />
+
+            <ImageView
+                android:id="@+id/imageMascotte"
+                android:layout_width="202dp"
+                android:layout_height="201dp"
+                android:layout_marginBottom="16dp"
+                android:contentDescription="Mascotte"
+                android:scaleType="centerCrop"
+                android:src="@drawable/mascotte" />
+
+            <TextView
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Which books do you want?"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:gravity="center"
+                android:layout_marginBottom="6dp" />
+
+            <TextView
+                android:id="@+id/textSubtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Select one or more books. We'll show verses only from your selection."
+                android:textSize="16sp"
+                android:textColor="@color/text_secondary"
+                android:gravity="center"
+                android:layout_marginBottom="14dp" />
+
+            <!-- All books -->
+            <LinearLayout
+                android:id="@+id/optionAllBooks"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <TextView
+                    android:id="@+id/textAllBooks"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="All books"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#333333" />
+
+                <ImageView
+                    android:id="@+id/radioAllBooks"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:contentDescription="Select All books"
+                    android:src="@drawable/radio_orange_checked" />
+            </LinearLayout>
+
+            <!-- Psalms -->
+            <LinearLayout
+                android:id="@+id/optionPsalms"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textPsalms"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Psalms"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Peace, comfort"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_secondary" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/radioPsalms"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- Proverbs -->
+            <LinearLayout
+                android:id="@+id/optionProverbs"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textProverbs"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Proverbs"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Wisdom"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_secondary" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/radioProverbs"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- John -->
+            <LinearLayout
+                android:id="@+id/optionJohn"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textJohn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="John"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Love, faith"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_secondary" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/radioJohn"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- Romans -->
+            <LinearLayout
+                android:id="@+id/optionRomans"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textRomans"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Romans"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Doctrine, encouragement"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_secondary" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/radioRomans"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- Genesis -->
+            <LinearLayout
+                android:id="@+id/optionGenesis"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textGenesis"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Genesis"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Creation, beginnings, God’s promises"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_secondary" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/radioGenesis"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- Isaiah -->
+            <LinearLayout
+                android:id="@+id/optionIsaiah"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textIsaiah"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Isaiah"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Hope, restoration, prophecy of Christ"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_secondary" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/radioIsaiah"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- Matthew -->
+            <LinearLayout
+                android:id="@+id/optionMatthew"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textMatthew"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Matthew"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Teachings of Jesus, Sermon on the Mount"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_secondary" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/radioMatthew"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textHint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tip: you can select multiple books."
+                android:textSize="14sp"
+                android:textColor="@color/text_secondary"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="24dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

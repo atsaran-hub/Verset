@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Verset" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:colorBackground">@color/background_primary</item>
+        <item name="colorSurface">@color/card_background</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        <item name="android:statusBarColor">@color/background_primary</item>
+        <item name="android:navigationBarColor">@color/background_primary</item>
+
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+    </style>
+
+    <!-- Si tu utilises Theme.Verset comme thème final -->
+    <style name="Theme.Verset" parent="Base.Theme.Verset"/>
+</resources>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_primary">
+
+    <!-- Back (FIXE en haut) -->
+    <ImageButton
+        android:id="@+id/btnBack"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/ic_back_black"
+        android:contentDescription="Back"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <!-- Zone du bas FIXE -->
+    <LinearLayout
+        android:id="@+id/bottomArea"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="@color/background_primary"
+        android:paddingTop="8dp"
+        android:paddingBottom="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:text="Next"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:backgroundTint="@color/accent_primary"
+            app:cornerRadius="30dp" />
+    </LinearLayout>
+
+    <!-- Contenu scrollable (entre Back et Next) -->
+    <ScrollView
+        android:id="@+id/scrollRoot"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        app:layout_constraintTop_toBottomOf="@id/btnBack"
+        app:layout_constraintBottom_toTopOf="@id/bottomArea"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:padding="24dp">
+
+            <!-- Progress -->
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginBottom="24dp"
+                android:max="100"
+                android:progress="0" />
+
+            <!-- Mascotte -->
+            <ImageView
+                android:id="@+id/imageMascotte"
+                android:layout_width="202dp"
+                android:layout_height="201dp"
+                android:layout_marginBottom="16dp"
+                android:contentDescription="Mascotte"
+                android:scaleType="centerCrop"
+                android:src="@drawable/mascotte" />
+
+            <!-- Title -->
+            <TextView
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Which language would you like to read in?"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:gravity="center"
+                android:layout_marginBottom="4dp" />
+
+            <!-- Subtitle -->
+            <TextView
+                android:id="@+id/textSubtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="You can change this anytime later"
+                android:textSize="16sp"
+                android:textColor="@color/text_secondary"
+                android:gravity="center"
+                android:layout_marginBottom="24dp" />
+
+            <!-- English -->
+            <LinearLayout
+                android:id="@+id/optionEnglish"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="English"
+                    android:textSize="16sp"
+                    android:textColor="#333333" />
+
+                <ImageView
+                    android:id="@+id/radioEnglish"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:contentDescription="Select English"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- French -->
+            <LinearLayout
+                android:id="@+id/optionFrench"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="French"
+                    android:textSize="16sp"
+                    android:textColor="#333333" />
+
+                <ImageView
+                    android:id="@+id/radioFrench"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:contentDescription="Select French"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- Spanish -->
+            <LinearLayout
+                android:id="@+id/optionSpanish"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Spanish"
+                    android:textSize="16sp"
+                    android:textColor="#333333" />
+
+                <ImageView
+                    android:id="@+id/radioSpanish"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:contentDescription="Select Spanish"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- Espace bas pour respirer -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="32dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

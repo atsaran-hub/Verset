@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_primary">
+
+    <!-- Back (FIXE en haut) -->
+    <ImageButton
+        android:id="@+id/btnBack"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/ic_back_black"
+        android:contentDescription="Back"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <!-- Zone du bas FIXE -->
+    <LinearLayout
+        android:id="@+id/bottomArea"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="@color/background_primary"
+        android:paddingTop="8dp"
+        android:paddingBottom="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:text="Next"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:backgroundTint="@color/accent_primary"
+            app:cornerRadius="30dp" />
+    </LinearLayout>
+
+    <!-- Contenu scrollable -->
+    <ScrollView
+        android:id="@+id/scrollRoot"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        app:layout_constraintTop_toBottomOf="@id/btnBack"
+        app:layout_constraintBottom_toTopOf="@id/bottomArea"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:padding="24dp">
+
+            <!-- Progress (optionnel) -->
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginBottom="24dp"
+                android:max="100"
+                android:progress="0" />
+
+            <!-- Mascotte (optionnel) -->
+            <ImageView
+                android:id="@+id/imageMascotte"
+                android:layout_width="202dp"
+                android:layout_height="201dp"
+                android:layout_marginBottom="16dp"
+                android:contentDescription="Mascotte"
+                android:scaleType="centerCrop"
+                android:src="@drawable/mascotte" />
+
+            <!-- Title -->
+            <TextView
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Choose your verse source"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:gravity="center"
+                android:layout_marginBottom="6dp" />
+
+            <!-- Subtitle -->
+            <TextView
+                android:id="@+id/textSubtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="You can show random verses, or only verses you liked."
+                android:textSize="16sp"
+                android:textColor="@color/text_secondary"
+                android:gravity="center"
+                android:layout_marginBottom="24dp" />
+
+            <!-- Option: All verses -->
+            <LinearLayout
+                android:id="@+id/optionSourceAll"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textAllLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Random verses (All Bible)"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333" />
+
+                    <TextView
+                        android:id="@+id/textAllSub"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="31,103 verses available"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_secondary"
+                        android:layout_marginTop="2dp"/>
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/radioSourceAll"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:contentDescription="Select All verses"
+                    android:src="@drawable/radio_orange_checked" />
+            </LinearLayout>
+
+            <!-- Option: Favorites -->
+            <LinearLayout
+                android:id="@+id/optionSourceFavorites"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:paddingEnd="20dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textFavLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="My liked verses"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333" />
+
+                    <!-- ✅ Tu mettras le nombre réel depuis la DB -->
+                    <TextView
+                        android:id="@+id/textFavSub"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0 liked verses"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_secondary"
+                        android:layout_marginTop="2dp"/>
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/radioSourceFavorites"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:contentDescription="Select favorites"
+                    android:src="@drawable/radio_orange_unchecked" />
+            </LinearLayout>
+
+            <!-- Hint -->
+            <TextView
+                android:id="@+id/textHint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tip: tap the ❤️ on the widget to save a verse."
+                android:textSize="14sp"
+                android:textColor="@color/text_secondary"
+                android:gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="10dp" />
+
+            <!-- Espace bas -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="24dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

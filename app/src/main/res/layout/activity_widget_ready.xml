@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_primary">
+
+    <!-- Zone du bas FIXE (CTA + later) -->
+    <LinearLayout
+        android:id="@+id/bottomArea"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingBottom="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/buttonAddWidget"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:layout_marginBottom="8dp"
+            android:text="Add widget to home screen"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:backgroundTint="@color/accent_primary"
+            app:cornerRadius="34dp" />
+
+        <TextView
+            android:id="@+id/textLater"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="I’ll do it later"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            android:padding="10dp" />
+    </LinearLayout>
+
+    <!-- Contenu scrollable (du haut jusqu'au CTA fixe) -->
+    <ScrollView
+        android:id="@+id/scrollRoot"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/bottomArea"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:padding="24dp">
+
+            <!-- Hello NAME -->
+            <TextView
+                android:id="@+id/textHello"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello"
+                android:textColor="@color/text_primary"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_marginTop="24dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"/>
+
+            <!-- Message widget-first -->
+            <TextView
+                android:id="@+id/textWidgetInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="✨ Your daily verse lives on your home screen"
+                android:textColor="@color/text_secondary"
+                android:textSize="14sp"
+                android:gravity="center"
+                android:layout_marginBottom="18dp"/>
+
+            <!-- Title -->
+            <TextView
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Your widget is ready ✨"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:gravity="center"
+                android:layout_marginBottom="4dp" />
+
+            <!-- Subtitle -->
+            <TextView
+                android:id="@+id/textSubtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Choose a verse you love, then place it on your home screen."
+                android:textSize="16sp"
+                android:textColor="@color/text_secondary"
+                android:gravity="center"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Selected for you (HORS du widget) -->
+            <TextView
+                android:id="@+id/labelSelected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Selected for you"
+                android:textSize="12sp"
+                android:textColor="@color/text_secondary"
+                android:layout_marginBottom="10dp" />
+
+            <!-- Widget preview card -->
+            <include
+                android:id="@+id/widgetPreviewInclude"
+                layout="@layout/include_widget_preview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"/>
+
+            <!-- Actions row: Choose verse + Customize widget -->
+            <LinearLayout
+                android:id="@+id/actionsRow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="14dp">
+
+                <Button
+                    android:id="@+id/buttonChangeVerse"
+                    android:layout_width="0dp"
+                    android:layout_height="46dp"
+                    android:layout_weight="1"
+                    android:text="Choose a verse"
+                    android:textAllCaps="false"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_primary"
+                    android:backgroundTint="#00000000"
+                    app:cornerRadius="23dp" />
+
+                <View
+                    android:layout_width="12dp"
+                    android:layout_height="0dp" />
+
+                <Button
+                    android:id="@+id/buttonCustomizeWidget"
+                    android:layout_width="0dp"
+                    android:layout_height="46dp"
+                    android:layout_weight="1"
+                    android:text="Customize widget"
+                    android:textAllCaps="false"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_primary"
+                    android:backgroundTint="#00000000"
+                    app:cornerRadius="23dp" />
+            </LinearLayout>
+
+            <!-- Hint -->
+            <TextView
+                android:id="@+id/textTip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tip: long press the home screen to add the widget."
+                android:textSize="14sp"
+                android:textColor="@color/text_secondary"
+                android:gravity="center"
+                android:layout_marginBottom="10dp" />
+
+            <!-- DEBUG Prefs -->
+            <TextView
+                android:id="@+id/textDebugPrefs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="DEBUG PREFS"
+                android:textSize="12sp"
+                android:textColor="@color/text_secondary"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:padding="14dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginBottom="16dp" />
+            <!-- DEBUG DB -->
+            <TextView
+                android:id="@+id/textDebugDbTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="DEBUG DB"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_secondary"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/textDbCount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="count=?"
+                android:textSize="12sp"
+                android:textColor="@color/text_secondary"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:padding="14dp"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/textDbVerse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="verse=?"
+                android:textSize="14sp"
+                android:textColor="@color/text_primary"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:padding="14dp"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/textDbRef"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ref=?"
+                android:textSize="12sp"
+                android:textColor="@color/text_secondary"
+                android:background="@drawable/bg_choice_beige_selector"
+                android:padding="14dp"
+                android:layout_marginBottom="16dp" />
+
+            <Button
+                android:id="@+id/buttonDebugReloadDb"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="Reload DB (debug)"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:backgroundTint="#00000000"
+                app:cornerRadius="23dp"
+                android:layout_marginBottom="12dp" />
+
+
+            <!-- Petit espace bas -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="24dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

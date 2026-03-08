@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Forme remplie rouge -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M12.1,21.35l-1.1,-1C5.14,15.24 2,12.39 2,8.89C2,6.5 3.99,4.5 6.38,4.5c1.54,0 3.04,0.99 3.72,2.36h0.2C11.58,5.49 13.08,4.5 14.62,4.5C17.01,4.5 19,6.5 19,8.89c0,3.5 -3.14,6.35 -8.99,11.46l-0.91,1z"/>
+
+    <!-- Contour noir -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#000000"
+        android:strokeWidth="1.3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M12.1,21.35l-1.1,-1C5.14,15.24 2,12.39 2,8.89C2,6.5 3.99,4.5 6.38,4.5c1.54,0 3.04,0.99 3.72,2.36h0.2C11.58,5.49 13.08,4.5 14.62,4.5C17.01,4.5 19,6.5 19,8.89c0,3.5 -3.14,6.35 -8.99,11.46l-0.91,1z"/>
+</vector>

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "VERSE",
+    "text": "The Lord is my shepherd; I shall not want.",
+    "reference": "Psalm 23:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      { "key": "comfort", "weight": 95 },
+      { "key": "peace", "weight": 80 }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I can do all things through Christ which strengtheneth me.",
+    "reference": "Philippians 4:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      { "key": "encouragement", "weight": 100 },
+      { "key": "hope", "weight": 70 }
+    ]
+  }
+]

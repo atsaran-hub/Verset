@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Verset</string>
+
+    <string name="back">Back</string>
+    <string name="mascot">Mascot</string>
+
+    <string name="name_title">What’s your name?</string>
+    <string name="name_subtitle">So I can choose verses that speak to your heart.</string>
+    <string name="name_hint">Your first name</string>
+    <string name="name_helper">You can change it later.</string>
+    <string name="continue_btn">Continue</string>
+    <string name="get_started">Get started</string>
+
+    <string name="age_title">How old are you?</string>
+    <string name="age_subtitle">This helps tailor your daily verses and reminders.</string>
+    <string name="selected">Selected</string>
+    <string name="widget_page_title">A verse on your home screen</string>
+    <string name="widget_page_subtitle">Keep God’s word in sight throughout the day.</string>
+    <string name="widget_page_add_button">Add widget to home screen</string>
+    <string name="widget_page_theme_title">THEME</string>
+        <string name="customize_widget">Customize widget</string>
+        <string name="skip">Skip</string>
+        <string name="save">Save</string>
+
+        <string name="a_verse_on_your_home_screen">A verse on your home screen</string>
+        <string name="keep_gods_word_in_sight">Keep Gods word in sight throughout the day.</string>
+        <string name="preview_note">Preview may vary by device. Check the live widget on your home screen.</string>
+
+        <string name="light">Light</string>
+        <string name="dark">Dark</string>
+
+    <string name="devotion_title">Your moment with God</string>
+    <string name="devotion_subtitle">Choose the days and time. We’ll send you a gentle reminder with a verse and words made for you.</string>
+    <string name="devotion_days_label">Days of the week</string>
+    <string name="devotion_time_label">Time</string>
+    <string name="devotion_helper">You can change it anytime in the app.</string>
+    <string name="devotion_enable">Enable reminders</string>
+
+    <string name="day_mon">Mon</string>
+    <string name="day_tue">Tue</string>
+    <string name="day_wed">Wed</string>
+    <string name="day_thu">Thu</string>
+    <string name="day_fri">Fri</string>
+    <string name="day_sat">Sat</string>
+    <string name="day_sun">Sun</string>
+
+    <string name="notif_channel_devotion">Devotion reminders</string>
+    <string name="notif_title_devotion">Moment with God</string>
+    <string name="notif_text_devotion">Open Verset for a verse and a message for you.</string>
+    <string name="premium">Premium</string>
+    <string name="premium_reassurance">Annulable à tout moment • Aucun engagement</string>
+    <string name="select_at_least_one_day">Sélectionne au moins un jour</string>
+    <string name="devotion_enabled_ok">Rappel activé ✅</string>
+    <string name="devotion_days_hint">Choisis les jours où tu veux recevoir un rappel.</string>
+    <string name="devotion_time_hint">Choisis l’heure idéale pour toi.</string>
+
+
+</resources>
