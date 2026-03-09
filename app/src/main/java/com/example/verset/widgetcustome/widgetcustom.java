@@ -1,10 +1,13 @@
 package com.example.verset.widgetcustome;
 
-import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProviderInfo;
 import android.content.ComponentName;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Color;
+import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
@@ -12,9 +15,12 @@ import android.os.Looper;
 import android.util.TypedValue;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.activity.result.ActivityResultLauncher;
+import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -30,6 +36,9 @@ import com.google.android.material.button.MaterialButton;
 import com.google.android.material.button.MaterialButtonToggleGroup;
 import com.google.android.material.slider.Slider;
 
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.InputStream;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
@@ -45,11 +54,12 @@ public class widgetcustom extends AppCompatActivity {
 
     private static final int COLOR_WHITE = 0xFFFFFFFF;
     private static final int COLOR_BLACK = 0xFF111111;
-    private static final int COLOR_BLUE  = 0xFF2F80FF;
-    private static final int COLOR_GOLD  = 0xFFD4AF37;
+    private static final int COLOR_BLUE = 0xFF2F80FF;
+    private static final int COLOR_GOLD = 0xFFD4AF37;
 
     private BottomNavigationView bottomNav;
     private MaterialButton btnAddWidget;
+    private MaterialButton btnGallery;
 
     private View widgetPreviewInclude;
     private View widgetPreviewRoot;
@@ -70,6 +80,9 @@ public class widgetcustom extends AppCompatActivity {
     private MaterialButton toggleBold, toggleItalic, toggleOutline;
 
     private Slider textSizeSlider;
+    private ActivityResultLauncher<String[]> galleryLauncher;
+
+    private enum Block { TONE, VERSE, REF }
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -81,6 +94,7 @@ public class widgetcustom extends AppCompatActivity {
                 AppWidgetManager.INVALID_APPWIDGET_ID
         );
 
+        setupGalleryPicker();
         bindViews();
         setupBottomNav();
 
@@ -90,31 +104,23 @@ public class widgetcustom extends AppCompatActivity {
         setupTextControls();
         syncTextControlsFromPrefs();
 
-        // ✅ Preview: verse depuis DB
         loadRandomVerseIntoPreview();
+        updateGalleryButtonState();
+        refreshPreviewThemeColors();
+        applyTextPrefsToPreview();
 
-        // ✅ Bouton Add widget: visible seulement si widget PAS ajouté
-        refreshAddButtonState();
-
-        if (btnAddWidget != null) {
-            btnAddWidget.setOnClickListener(v -> {
-                // Re-check au clic
-                if (isWidgetReallyAdded()) {
-                    refreshAddButtonState();
-                    Toast.makeText(this, "Widget déjà ajouté ✅", Toast.LENGTH_SHORT).show();
-                    return;
+        if (btnGallery != null) {
+            btnGallery.setOnClickListener(v -> {
+                if (galleryLauncher != null) {
+                    galleryLauncher.launch(new String[]{"image/*"});
                 }
-
-                requestPinWidget();
-
-                // Re-check après flow launcher
-                handler.postDelayed(this::refreshAddButtonState, 1200);
-                handler.postDelayed(this::refreshAddButtonState, 2500);
             });
         }
 
-        refreshPreviewThemeColors();
-        applyTextPrefsToPreview();
+        if (btnAddWidget != null) {
+            btnAddWidget.setVisibility(View.VISIBLE);
+            btnAddWidget.setOnClickListener(v -> addWidgetToHome());
+        }
 
         if (widgetPreviewRoot != null) {
             widgetPreviewRoot.post(this::applyRealWidgetSizeToPreview);
@@ -125,21 +131,18 @@ public class widgetcustom extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
 
-        // ✅ Re-check bouton + preview DB
-        refreshAddButtonState();
         loadRandomVerseIntoPreview();
+        updateGalleryButtonState();
+        syncThemeUiFromPrefs();
+        syncTextControlsFromPrefs();
+        refreshPreviewThemeColors();
+        applyTextPrefsToPreview();
 
         if (bottomNav != null) {
             ignoreNavSelection = true;
             bottomNav.setSelectedItemId(R.id.nav_widget);
             ignoreNavSelection = false;
         }
-
-        syncThemeUiFromPrefs();
-        syncTextControlsFromPrefs();
-
-        refreshPreviewThemeColors();
-        applyTextPrefsToPreview();
 
         if (widgetPreviewRoot != null) {
             widgetPreviewRoot.post(this::applyRealWidgetSizeToPreview);
@@ -149,25 +152,28 @@ public class widgetcustom extends AppCompatActivity {
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        if (refreshRunnable != null) handler.removeCallbacks(refreshRunnable);
+        if (refreshRunnable != null) {
+            handler.removeCallbacks(refreshRunnable);
+        }
     }
 
     private void bindViews() {
         bottomNav = findViewById(R.id.bottomNav);
         btnAddWidget = findViewById(R.id.btnAddWidget);
+        btnGallery = findViewById(R.id.btnGallery);
 
         widgetPreviewInclude = findViewById(R.id.widgetPreviewInclude);
         widgetPreviewRoot = findViewById(R.id.widgetPreviewRoot);
 
         colorDotWhite = findViewById(R.id.colorDotWhite);
         colorDotBlack = findViewById(R.id.colorDotBlack);
-        colorDotBlue  = findViewById(R.id.colorDotBlue);
-        colorDotGold  = findViewById(R.id.colorDotGold);
+        colorDotBlue = findViewById(R.id.colorDotBlue);
+        colorDotGold = findViewById(R.id.colorDotGold);
 
         colorSelWhite = findViewById(R.id.colorSelWhite);
         colorSelBlack = findViewById(R.id.colorSelBlack);
-        colorSelBlue  = findViewById(R.id.colorSelBlue);
-        colorSelGold  = findViewById(R.id.colorSelGold);
+        colorSelBlue = findViewById(R.id.colorSelBlue);
+        colorSelGold = findViewById(R.id.colorSelGold);
 
         styleToggleGroup = findViewById(R.id.styleToggleGroup);
         toggleBold = findViewById(R.id.toggleBold);
@@ -177,7 +183,111 @@ public class widgetcustom extends AppCompatActivity {
         textSizeSlider = findViewById(R.id.textSizeSlider);
     }
 
-    // ✅ PREVIEW VERSE FROM DB
+    private void setupGalleryPicker() {
+        galleryLauncher = registerForActivityResult(
+                new ActivityResultContracts.OpenDocument(),
+                uri -> {
+                    if (uri == null) return;
+
+                    try {
+                        getContentResolver().takePersistableUriPermission(
+                                uri,
+                                Intent.FLAG_GRANT_READ_URI_PERMISSION
+                        );
+                    } catch (Exception ignored) {
+                    }
+
+                    String localPath = copyImageToInternalStorage(uri);
+                    if (localPath == null) {
+                        Toast.makeText(this, "Impossible de lire l'image", Toast.LENGTH_SHORT).show();
+                        return;
+                    }
+
+                    Prefs.setWidgetCustomImageUri(this, uri.toString());
+                    Prefs.setWidgetLocalImagePath(this, localPath);
+                    Prefs.saveTheme(this, "custom_gallery", 0xFFFFFFFF, R.drawable.theme_bg_dawn);
+
+                    updateGalleryButtonState();
+                    syncThemeUiFromPrefs();
+                    refreshPreviewThemeColors();
+                    applyTextPrefsToPreview();
+                    refreshWidgetDebouncedSafe();
+
+                    Toast.makeText(this, "Photo choisie ✅", Toast.LENGTH_SHORT).show();
+                }
+        );
+    }
+
+    private String copyImageToInternalStorage(Uri uri) {
+        try {
+            InputStream inputStream = getContentResolver().openInputStream(uri);
+            if (inputStream == null) return null;
+
+            Bitmap bitmap = BitmapFactory.decodeStream(inputStream);
+            inputStream.close();
+
+            if (bitmap == null) return null;
+
+            File file = new File(getFilesDir(), "widget_custom_image.jpg");
+            FileOutputStream fos = new FileOutputStream(file);
+            bitmap.compress(Bitmap.CompressFormat.JPEG, 90, fos);
+            fos.flush();
+            fos.close();
+
+            return file.getAbsolutePath();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
+
+    private void addWidgetToHome() {
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.O) {
+            Toast.makeText(this, "Ajoute le widget depuis l’écran d’accueil.", Toast.LENGTH_LONG).show();
+            return;
+        }
+
+        AppWidgetManager appWidgetManager = getSystemService(AppWidgetManager.class);
+        if (appWidgetManager == null) {
+            Toast.makeText(this, "AppWidgetManager indisponible.", Toast.LENGTH_SHORT).show();
+            return;
+        }
+
+        if (!appWidgetManager.isRequestPinAppWidgetSupported()) {
+            Toast.makeText(this, "Ton launcher ne supporte pas l’ajout automatique.", Toast.LENGTH_SHORT).show();
+            return;
+        }
+
+        ComponentName provider = new ComponentName(this, VerseWidgetProvider.class);
+
+        try {
+            boolean ok = appWidgetManager.requestPinAppWidget(provider, null, null);
+
+            if (ok) {
+                Toast.makeText(this, "Confirme l’ajout du widget.", Toast.LENGTH_SHORT).show();
+            } else {
+                Toast.makeText(this, "Impossible d’ouvrir l’ajout du widget.", Toast.LENGTH_SHORT).show();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+            Toast.makeText(this, "Erreur pendant l’ajout du widget.", Toast.LENGTH_SHORT).show();
+        }
+    }
+
+    private void updateGalleryButtonState() {
+        if (btnGallery == null) return;
+
+        boolean hasPhoto = Prefs.hasWidgetCustomImage(this);
+        boolean isPhotoTheme = "custom_gallery".equals(Prefs.getThemeId(this));
+
+        if (isPhotoTheme && hasPhoto) {
+            btnGallery.setText("Change photo");
+        } else {
+            btnGallery.setText("Choose photo");
+        }
+    }
+
     private void loadRandomVerseIntoPreview() {
         if (widgetPreviewInclude == null) return;
 
@@ -186,28 +296,26 @@ public class widgetcustom extends AppCompatActivity {
 
             ContentItemEntity verse = AppDatabase.getInstance(this)
                     .contentDao()
-                    .getRandomVerse("en"); // ton seed KJV est "en"
+                    .getRandomVerse("en");
 
-            TextView tvVerse = widgetPreviewInclude.findViewById(R.id.previewVerse);
-            TextView tvRef = widgetPreviewInclude.findViewById(R.id.previewRef);
+            String verseText = verse != null && verse.text != null ? verse.text : "—";
+            String refText = verse != null && verse.reference != null ? verse.reference : "";
 
-            if (tvVerse != null) {
-                tvVerse.setText(verse != null && verse.text != null ? verse.text : "—");
-            }
-            if (tvRef != null) {
-                tvRef.setText(verse != null && verse.reference != null ? verse.reference : "");
-            }
+            setTextForAllVariants(widgetPreviewInclude, idsBase(Block.VERSE), idsOlb(Block.VERSE), idsOlw(Block.VERSE), verseText);
+            setTextForAllVariants(widgetPreviewInclude, idsBase(Block.REF), idsOlb(Block.REF), idsOlw(Block.REF), refText);
+
+            setTextForAllVariants(widgetPreviewInclude, idsBase(Block.TONE), idsOlb(Block.TONE), idsOlw(Block.TONE), "");
+            hideAll(widgetPreviewInclude, idsBase(Block.TONE));
+            hideAll(widgetPreviewInclude, idsOlb(Block.TONE));
+            hideAll(widgetPreviewInclude, idsOlw(Block.TONE));
+
         } catch (Exception e) {
-            // Si souci DB, on laisse le texte par défaut du XML
             e.printStackTrace();
         }
     }
 
-    // ---------------- THEMES ----------------
-
     private void registerThemes() {
         registerTheme("dawn", R.id.themeCardDawn, R.id.themeSelDawn);
-
         registerTheme("ocean_serenity", R.id.themeCardOceanSerenity, R.id.themeSelOceanSerenity);
         registerTheme("soft_flame", R.id.themeCardSoftFlame, R.id.themeSelSoftFlame);
         registerTheme("silent_forest", R.id.themeCardSilentForest, R.id.themeSelSilentForest);
@@ -217,7 +325,6 @@ public class widgetcustom extends AppCompatActivity {
         registerTheme("deep_galaxy", R.id.themeCardDeepGalaxy, R.id.themeSelDeepGalaxy);
         registerTheme("cross_eternal_light", R.id.themeCardCrossEternalLight, R.id.themeSelCrossEternalLight);
         registerTheme("cross_eternal_dark", R.id.themeCardCrossEternalDark, R.id.themeSelCrossEternalDark);
-
         registerTheme("cross_glory", R.id.themeCardCrossGlory, R.id.themeSelCrossGlory);
         registerTheme("faith_minimal", R.id.themeCardFaithMinimal, R.id.themeSelFaithMinimal);
         registerTheme("ocean_night", R.id.themeCardOceanNight, R.id.themeSelOceanNight);
@@ -240,9 +347,12 @@ public class widgetcustom extends AppCompatActivity {
             int bgRes = resolveDrawable("theme_bg_" + themeId, R.drawable.theme_bg_dawn);
             int textColor = isDarkTheme(themeId) ? 0xFFFFFFFF : 0xFF1F1F1F;
 
+            Prefs.clearWidgetCustomImageUri(this);
+            Prefs.clearWidgetLocalImagePath(this);
             Prefs.saveTheme(this, themeId, textColor, bgRes);
 
             syncThemeUiFromPrefs();
+            updateGalleryButtonState();
             refreshPreviewThemeColors();
             applyTextPrefsToPreview();
             refreshWidgetDebouncedSafe();
@@ -268,6 +378,7 @@ public class widgetcustom extends AppCompatActivity {
             case "cross_eternal_dark":
             case "ocean_night":
             case "cross_glory":
+            case "custom_gallery":
                 return true;
             default:
                 return false;
@@ -284,17 +395,30 @@ public class widgetcustom extends AppCompatActivity {
     }
 
     private void refreshPreviewThemeColors() {
-        // Ici ton include preview n’a pas les ids textTone_normal etc -> pas grave, ça ne casse pas.
-        // Tu peux le laisser tel quel.
-    }
+        if (widgetPreviewInclude == null) return;
 
-    // ---------------- TEXT CONTROLS ----------------
+        ImageView bg = widgetPreviewInclude.findViewById(R.id.bgImage);
+        if (bg == null) return;
+
+        String themeId = Prefs.getThemeId(this);
+
+        if ("custom_gallery".equals(themeId) && Prefs.hasWidgetCustomImage(this)) {
+            try {
+                bg.setImageURI(Uri.parse(Prefs.getWidgetCustomImageUri(this)));
+                return;
+            } catch (Exception ignored) {
+            }
+        }
+
+        int bgRes = resolveDrawable("theme_bg_" + themeId, R.drawable.theme_bg_dawn);
+        bg.setImageResource(bgRes);
+    }
 
     private void setupTextControls() {
         if (colorDotWhite != null) colorDotWhite.setOnClickListener(v -> setTextColorPref(COLOR_WHITE));
         if (colorDotBlack != null) colorDotBlack.setOnClickListener(v -> setTextColorPref(COLOR_BLACK));
-        if (colorDotBlue  != null) colorDotBlue.setOnClickListener(v -> setTextColorPref(COLOR_BLUE));
-        if (colorDotGold  != null) colorDotGold.setOnClickListener(v -> setTextColorPref(COLOR_GOLD));
+        if (colorDotBlue != null) colorDotBlue.setOnClickListener(v -> setTextColorPref(COLOR_BLUE));
+        if (colorDotGold != null) colorDotGold.setOnClickListener(v -> setTextColorPref(COLOR_GOLD));
 
         if (styleToggleGroup != null) {
             styleToggleGroup.addOnButtonCheckedListener((group, checkedId, isChecked) -> {
@@ -311,7 +435,8 @@ public class widgetcustom extends AppCompatActivity {
             textSizeSlider.setValue(size);
 
             textSizeSlider.addOnChangeListener((slider, value, fromUser) -> {
-                getSharedPreferences(SP_TEXT, MODE_PRIVATE).edit()
+                getSharedPreferences(SP_TEXT, MODE_PRIVATE)
+                        .edit()
                         .putFloat(K_TEXT_SIZE_SP, value)
                         .apply();
 
@@ -333,14 +458,17 @@ public class widgetcustom extends AppCompatActivity {
         if (toggleBold != null) toggleBold.setChecked(bold);
         if (toggleItalic != null) toggleItalic.setChecked(italic);
         if (toggleOutline != null) toggleOutline.setChecked(outline);
-
         if (textSizeSlider != null) textSizeSlider.setValue(size);
 
         syncColorUiFromPrefs(color);
     }
 
     private void setTextColorPref(int color) {
-        getSharedPreferences(SP_TEXT, MODE_PRIVATE).edit().putInt(K_COLOR, color).apply();
+        getSharedPreferences(SP_TEXT, MODE_PRIVATE)
+                .edit()
+                .putInt(K_COLOR, color)
+                .apply();
+
         syncColorUiFromPrefs(color);
         applyTextPrefsToPreview();
         refreshWidgetDebouncedSafe();
@@ -351,7 +479,8 @@ public class widgetcustom extends AppCompatActivity {
         boolean italic = toggleItalic != null && toggleItalic.isChecked();
         boolean outline = toggleOutline != null && toggleOutline.isChecked();
 
-        getSharedPreferences(SP_TEXT, MODE_PRIVATE).edit()
+        getSharedPreferences(SP_TEXT, MODE_PRIVATE)
+                .edit()
                 .putBoolean(K_BOLD, bold)
                 .putBoolean(K_ITALIC, italic)
                 .putBoolean(K_OUTLINE, outline)
@@ -361,8 +490,8 @@ public class widgetcustom extends AppCompatActivity {
     private void syncColorUiFromPrefs(int color) {
         setRing(colorSelWhite, color == COLOR_WHITE);
         setRing(colorSelBlack, color == COLOR_BLACK);
-        setRing(colorSelBlue,  color == COLOR_BLUE);
-        setRing(colorSelGold,  color == COLOR_GOLD);
+        setRing(colorSelBlue, color == COLOR_BLUE);
+        setRing(colorSelGold, color == COLOR_GOLD);
     }
 
     private void setRing(View ring, boolean show) {
@@ -371,13 +500,56 @@ public class widgetcustom extends AppCompatActivity {
     }
 
     private void applyTextPrefsToPreview() {
-        // Ton preview actuel = previewVerse / previewRef.
-        // Les styles avancés ne sont pas appliqués ici (pas les mêmes ids que widget_verse.xml),
-        // mais ça n’empêche pas le widget réel d’être stylé.
-        // Si tu veux appliquer les styles au preview aussi, je peux te le faire.
+        if (widgetPreviewInclude == null) return;
+
+        int fallbackColor = Prefs.getThemeTextColor(this);
+
+        int color = getSharedPreferences(SP_TEXT, MODE_PRIVATE).getInt(K_COLOR, fallbackColor);
+        boolean bold = getSharedPreferences(SP_TEXT, MODE_PRIVATE).getBoolean(K_BOLD, false);
+        boolean italic = getSharedPreferences(SP_TEXT, MODE_PRIVATE).getBoolean(K_ITALIC, false);
+        boolean outline = getSharedPreferences(SP_TEXT, MODE_PRIVATE).getBoolean(K_OUTLINE, false);
+        float baseSp = getSharedPreferences(SP_TEXT, MODE_PRIVATE).getFloat(K_TEXT_SIZE_SP, DEFAULT_TEXT_SIZE_SP);
+
+        float verseSp = baseSp;
+        float refSp = Math.max(8f, baseSp - 3f);
+
+        int styleIndex = (bold ? 1 : 0) + (italic ? 2 : 0);
+        boolean outlineWhite = outline && isDarkColor(color);
+
+        hideAll(widgetPreviewInclude, idsBase(Block.TONE));
+        hideAll(widgetPreviewInclude, idsOlb(Block.TONE));
+        hideAll(widgetPreviewInclude, idsOlw(Block.TONE));
+
+        applyBlockToPreview(Block.VERSE, styleIndex, outline, outlineWhite, color, verseSp);
+        applyBlockToPreview(Block.REF, styleIndex, outline, outlineWhite, color, refSp);
     }
 
-    // ---------------- PREVIEW SIZE ----------------
+    private void applyBlockToPreview(
+            Block block,
+            int styleIndex,
+            boolean outline,
+            boolean outlineWhite,
+            int color,
+            float textSizeSp
+    ) {
+        int[] base = idsBase(block);
+        int[] olb = idsOlb(block);
+        int[] olw = idsOlw(block);
+
+        hideAll(widgetPreviewInclude, base);
+        hideAll(widgetPreviewInclude, olb);
+        hideAll(widgetPreviewInclude, olw);
+
+        int targetId = !outline ? base[styleIndex] : (outlineWhite ? olw[styleIndex] : olb[styleIndex]);
+
+        View v = widgetPreviewInclude.findViewById(targetId);
+        if (v instanceof TextView) {
+            TextView tv = (TextView) v;
+            tv.setVisibility(View.VISIBLE);
+            tv.setTextColor(color);
+            tv.setTextSize(TypedValue.COMPLEX_UNIT_SP, textSizeSp);
+        }
+    }
 
     private void applyRealWidgetSizeToPreview() {
         if (widgetPreviewRoot == null) return;
@@ -433,10 +605,10 @@ public class widgetcustom extends AppCompatActivity {
         return Math.round(dp * getResources().getDisplayMetrics().density);
     }
 
-    // ---------------- WIDGET UPDATE ----------------
-
     private void refreshWidgetDebouncedSafe() {
-        if (refreshRunnable != null) handler.removeCallbacks(refreshRunnable);
+        if (refreshRunnable != null) {
+            handler.removeCallbacks(refreshRunnable);
+        }
 
         refreshRunnable = () -> {
             try {
@@ -445,112 +617,15 @@ public class widgetcustom extends AppCompatActivity {
                 e.printStackTrace();
             }
         };
+
         handler.postDelayed(refreshRunnable, 120);
     }
-
-    private boolean isWidgetReallyAdded() {
-        AppWidgetManager mgr = AppWidgetManager.getInstance(this);
-        ComponentName cn = new ComponentName(this, VerseWidgetProvider.class);
-        int[] ids = mgr.getAppWidgetIds(cn);
-
-        if (ids == null || ids.length == 0) return false;
-
-        for (int id : ids) {
-            try {
-                AppWidgetProviderInfo info = mgr.getAppWidgetInfo(id);
-                if (info != null) return true;
-            } catch (Exception ignored) {}
-        }
-        return false;
-    }
-
-    private void refreshAddButtonState() {
-        boolean has = isWidgetReallyAdded();
-        applyAddButtonState(has);
-    }
-
-    // ✅ ICI: si déjà ajouté -> DISPARAIT
-    private void applyAddButtonState(boolean hasWidget) {
-        if (btnAddWidget == null) return;
-
-        if (hasWidget) {
-            btnAddWidget.setVisibility(View.GONE);
-        } else {
-            btnAddWidget.setVisibility(View.VISIBLE);
-            btnAddWidget.setEnabled(true);
-            btnAddWidget.setAlpha(1f);
-            btnAddWidget.setText("Add widget to home screen");
-        }
-    }
-
-    // ---------------- PIN WIDGET ----------------
-
-    private void requestPinWidget() {
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.O) {
-            Toast.makeText(this, "Android < 8 : ajoute le widget depuis l’écran d’accueil.", Toast.LENGTH_LONG).show();
-            openWidgetPickerFallback();
-            return;
-        }
-
-        AppWidgetManager mgr = getSystemService(AppWidgetManager.class);
-        if (mgr == null) {
-            Toast.makeText(this, "AppWidgetManager indisponible.", Toast.LENGTH_SHORT).show();
-            openWidgetPickerFallback();
-            return;
-        }
-
-        ComponentName provider = new ComponentName(this, VerseWidgetProvider.class);
-
-        if (mgr.isRequestPinAppWidgetSupported()) {
-            try {
-                Intent callbackIntent = new Intent(this, WidgetPinnedReceiver.class);
-                callbackIntent.setAction("com.example.verset.ACTION_WIDGET_PINNED");
-
-                PendingIntent successCallback = PendingIntent.getBroadcast(
-                        this,
-                        5001,
-                        callbackIntent,
-                        PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE
-                );
-
-                boolean launched = mgr.requestPinAppWidget(provider, null, successCallback);
-
-                if (launched) {
-                    Toast.makeText(this, "Confirme l’ajout du widget sur l’accueil.", Toast.LENGTH_SHORT).show();
-                } else {
-                    Toast.makeText(this, "Impossible d’ouvrir l’ajout automatique.", Toast.LENGTH_SHORT).show();
-                    openWidgetPickerFallback();
-                }
-                return;
-
-            } catch (Exception e) {
-                e.printStackTrace();
-                Toast.makeText(this, "Erreur pendant l’ajout du widget.", Toast.LENGTH_SHORT).show();
-                openWidgetPickerFallback();
-                return;
-            }
-        }
-
-        Toast.makeText(this, "Ton launcher ne supporte pas l’ajout automatique.", Toast.LENGTH_SHORT).show();
-        openWidgetPickerFallback();
-    }
-
-    private void openWidgetPickerFallback() {
-        Toast.makeText(this, "Maintiens l’écran d’accueil → Widgets → Verset", Toast.LENGTH_LONG).show();
-
-        try {
-            Intent i = new Intent(AppWidgetManager.ACTION_APPWIDGET_PICK);
-            startActivity(i);
-        } catch (Exception ignored) {}
-    }
-
-    // ---------------- NAV ----------------
 
     private void setupBottomNav() {
         if (bottomNav == null) return;
 
         bottomNav.setSelectedItemId(R.id.nav_widget);
-        bottomNav.setOnItemReselectedListener(item -> {});
+        bottomNav.setOnItemReselectedListener(item -> { });
 
         bottomNav.setOnItemSelectedListener(item -> {
             if (ignoreNavSelection) return true;
@@ -574,5 +649,75 @@ public class widgetcustom extends AppCompatActivity {
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
         startActivity(intent);
         overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
+    }
+
+    private void setTextForAllVariants(View root, int[] base, int[] olb, int[] olw, String text) {
+        if (root == null) return;
+        if (text == null) text = "";
+
+        for (int id : base) {
+            View v = root.findViewById(id);
+            if (v instanceof TextView) ((TextView) v).setText(text);
+        }
+        for (int id : olb) {
+            View v = root.findViewById(id);
+            if (v instanceof TextView) ((TextView) v).setText(text);
+        }
+        for (int id : olw) {
+            View v = root.findViewById(id);
+            if (v instanceof TextView) ((TextView) v).setText(text);
+        }
+    }
+
+    private void hideAll(View root, int[] ids) {
+        if (root == null) return;
+        for (int id : ids) {
+            View v = root.findViewById(id);
+            if (v != null) v.setVisibility(View.GONE);
+        }
+    }
+
+    private int[] idsBase(Block b) {
+        switch (b) {
+            case TONE:
+                return new int[]{R.id.textTone_normal, R.id.textTone_bold, R.id.textTone_italic, R.id.textTone_bold_italic};
+            case VERSE:
+                return new int[]{R.id.textVerse_normal, R.id.textVerse_bold, R.id.textVerse_italic, R.id.textVerse_bold_italic};
+            case REF:
+            default:
+                return new int[]{R.id.textRef_normal, R.id.textRef_bold, R.id.textRef_italic, R.id.textRef_bold_italic};
+        }
+    }
+
+    private int[] idsOlb(Block b) {
+        switch (b) {
+            case TONE:
+                return new int[]{R.id.textTone_normal_olb, R.id.textTone_bold_olb, R.id.textTone_italic_olb, R.id.textTone_bold_italic_olb};
+            case VERSE:
+                return new int[]{R.id.textVerse_normal_olb, R.id.textVerse_bold_olb, R.id.textVerse_italic_olb, R.id.textVerse_bold_italic_olb};
+            case REF:
+            default:
+                return new int[]{R.id.textRef_normal_olb, R.id.textRef_bold_olb, R.id.textRef_italic_olb, R.id.textRef_bold_italic_olb};
+        }
+    }
+
+    private int[] idsOlw(Block b) {
+        switch (b) {
+            case TONE:
+                return new int[]{R.id.textTone_normal_olw, R.id.textTone_bold_olw, R.id.textTone_italic_olw, R.id.textTone_bold_italic_olw};
+            case VERSE:
+                return new int[]{R.id.textVerse_normal_olw, R.id.textVerse_bold_olw, R.id.textVerse_italic_olw, R.id.textVerse_bold_italic_olw};
+            case REF:
+            default:
+                return new int[]{R.id.textRef_normal_olw, R.id.textRef_bold_olw, R.id.textRef_italic_olw, R.id.textRef_bold_italic_olw};
+        }
+    }
+
+    private boolean isDarkColor(int color) {
+        double r = Color.red(color) / 255.0;
+        double g = Color.green(color) / 255.0;
+        double b = Color.blue(color) / 255.0;
+        double lum = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+        return lum < 0.45;
     }
 }

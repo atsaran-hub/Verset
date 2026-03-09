@@ -1,41 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.google.android.material.card.MaterialCardView
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/widgetPreviewRoot"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    app:cardCornerRadius="16dp"
-    app:cardElevation="0dp"
-    app:strokeWidth="1dp"
-    app:strokeColor="@color/card_border_soft"
-    android:backgroundTint="@color/card_background">
+    android:layout_height="160dp">
 
-    <LinearLayout
+    <include
+        layout="@layout/widget_verse"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:padding="14dp">
+        android:layout_height="match_parent" />
 
-        <TextView
-            android:id="@+id/previewVerse"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="“The Lord is my shepherd; I shall not want.”"
-            android:textSize="16sp"
-            android:textStyle="bold"
-            android:textColor="@color/text_primary"
-            android:lineSpacingExtra="3dp"/>
-
-        <TextView
-            android:id="@+id/previewRef"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Psalm 23:1"
-            android:textSize="13sp"
-            android:textColor="@color/text_secondary"
-            android:layout_marginTop="8dp"/>
-
-    </LinearLayout>
-
-</com.google.android.material.card.MaterialCardView>
+</FrameLayout>

@@ -531,4 +531,47 @@ public class Prefs {
     private static int clampInt(int v, int min, int max) {
         return Math.max(min, Math.min(max, v));
     }
+
+    // =====================================================
+    // WIDGET CUSTOM IMAGE
+    // =====================================================
+    private static final String KEY_WIDGET_CUSTOM_IMAGE_URI = "widget_custom_image_uri";
+
+    public static void setWidgetCustomImageUri(Context c, String uri) {
+        if (uri == null) uri = "";
+        sp(c).edit().putString(KEY_WIDGET_CUSTOM_IMAGE_URI, uri).apply();
+    }
+
+    public static String getWidgetCustomImageUri(Context c) {
+        return sp(c).getString(KEY_WIDGET_CUSTOM_IMAGE_URI, "");
+    }
+
+    public static boolean hasWidgetCustomImage(Context c) {
+        String uri = getWidgetCustomImageUri(c);
+        return uri != null && !uri.trim().isEmpty();
+    }
+
+    public static void clearWidgetCustomImageUri(Context c) {
+        sp(c).edit().remove(KEY_WIDGET_CUSTOM_IMAGE_URI).apply();
+    }
+    private static final String KEY_WIDGET_LOCAL_IMAGE_PATH = "widget_local_image_path";
+
+    public static void setWidgetLocalImagePath(Context c, String path) {
+        sp(c).edit().putString(KEY_WIDGET_LOCAL_IMAGE_PATH, path).apply();
+    }
+
+    public static String getWidgetLocalImagePath(Context c) {
+        return sp(c).getString(KEY_WIDGET_LOCAL_IMAGE_PATH, "");
+    }
+
+    public static boolean hasWidgetLocalImagePath(Context c) {
+        String path = getWidgetLocalImagePath(c);
+        return path != null && !path.trim().isEmpty();
+    }
+
+    public static void clearWidgetLocalImagePath(Context c) {
+        sp(c).edit().remove(KEY_WIDGET_LOCAL_IMAGE_PATH).apply();
+    }
+
+
 }

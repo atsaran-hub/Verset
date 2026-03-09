@@ -1,15 +1,25 @@
 package com.example.verset;
 
 import android.os.Bundle;
+import android.view.View;
 
-import androidx.appcompat.app.AppCompatActivity;
+import com.example.verset.widgetcustome.widgetcustom;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-public class WidgetCustomizeActivity extends AppCompatActivity {
+public class WidgetCustomizeActivity extends widgetcustom {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // Temporary empty screen for debugging
+        BottomNavigationView bottomNav = findViewById(R.id.bottomNav);
+        if (bottomNav != null) {
+            bottomNav.setVisibility(View.GONE);
+        }
+
+        View btnAddWidget = findViewById(R.id.btnAddWidget);
+        if (btnAddWidget != null) {
+            btnAddWidget.setVisibility(View.VISIBLE);
+        }
     }
 }

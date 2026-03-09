@@ -63,7 +63,9 @@
         <activity android:name=".Onboarding.OnboardingSummaryActivity" android:exported="false" />
         <activity android:name=".ThemeActivity" android:exported="false" />
         <activity android:name=".Onboarding.ActivityTone" android:exported="false" />
-
+        <receiver
+            android:name=".widgetcustome.WidgetPinnedReceiver"
+            android:exported="false" />
         <activity
             android:name=".DevotionReminderActivity"
             android:exported="false" />

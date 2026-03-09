@@ -7,10 +7,11 @@ import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
-import android.util.TypedValue;
+import android.net.Uri;
 import android.view.View;
 import android.widget.RemoteViews;
-
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import com.example.verset.Prefs;
 import com.example.verset.R;
 import com.example.verset.db.AppDatabase;
@@ -64,39 +65,45 @@ public class VerseWidgetProvider extends AppWidgetProvider {
     private static void updateAppWidget(Context context, AppWidgetManager appWidgetManager, int appWidgetId) {
         RemoteViews views = new RemoteViews(context.getPackageName(), WIDGET_LAYOUT);
 
-        // =========================
-        // ✅ 1) On cache TOUT le "TONE" (donc plus de "soft")
-        // =========================
         hideAll(views, idsBase(Block.TONE));
         hideAll(views, idsOlb(Block.TONE));
         hideAll(views, idsOlw(Block.TONE));
 
-        // =========================
-        // ✅ 2) On récupère verset + ref depuis la DB
-        // =========================
         ContentItemEntity verse = null;
         try {
             SeedImporter.ensureSeeded(context);
             verse = AppDatabase.getInstance(context).contentDao().getRandomVerse("en");
-        } catch (Exception ignored) {}
+        } catch (Exception ignored) {
+        }
 
         String verseText = (verse != null && verse.text != null) ? verse.text : "—";
-        String refText   = (verse != null && verse.reference != null) ? verse.reference : "";
+        String refText = (verse != null && verse.reference != null) ? verse.reference : "";
 
-        // On met le texte sur TOUTES les variantes (normal/bold/italic/outlines)
         setTextForAllVariants(views, idsBase(Block.VERSE), idsOlb(Block.VERSE), idsOlw(Block.VERSE), verseText);
-        setTextForAllVariants(views, idsBase(Block.REF),   idsOlb(Block.REF),   idsOlw(Block.REF),   refText);
+        setTextForAllVariants(views, idsBase(Block.REF), idsOlb(Block.REF), idsOlw(Block.REF), refText);
 
-        // =========================
-        // ✅ 3) Theme BG
-        // =========================
         String themeId = Prefs.getThemeId(context);
-        int bgRes = resolveThemeBgRes(context, themeId);
-        views.setImageViewResource(R.id.bgImage, bgRes);
+        if ("custom_gallery".equals(themeId) && Prefs.hasWidgetLocalImagePath(context)) {
+            try {
+                String path = Prefs.getWidgetLocalImagePath(context);
+                Bitmap bitmap = BitmapFactory.decodeFile(path);
 
-        // =========================
-        // ✅ 4) Styles (bold/italic/outline + taille)
-        // =========================
+                if (bitmap != null) {
+                    views.setImageViewBitmap(R.id.bgImage, bitmap);
+                } else {
+                    int bgRes = resolveThemeBgRes(context, "dawn");
+                    views.setImageViewResource(R.id.bgImage, bgRes);
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+                int bgRes = resolveThemeBgRes(context, "dawn");
+                views.setImageViewResource(R.id.bgImage, bgRes);
+            }
+        } else {
+            int bgRes = resolveThemeBgRes(context, themeId);
+            views.setImageViewResource(R.id.bgImage, bgRes);
+        }
+
         int fallbackColor = Prefs.getThemeTextColor(context);
 
         int color = context.getSharedPreferences(SP_TEXT, Context.MODE_PRIVATE)
@@ -117,16 +124,12 @@ public class VerseWidgetProvider extends AppWidgetProvider {
         float verseSp = baseSp;
         float refSp = Math.max(8f, baseSp - 3f);
 
-        int styleIndex = (bold ? 1 : 0) + (italic ? 2 : 0); // 0..3
+        int styleIndex = (bold ? 1 : 0) + (italic ? 2 : 0);
         boolean outlineWhite = outline && isDarkColor(color);
 
-        // ⚠️ On n’applique PLUS rien au TONE (puisqu’il est supprimé)
         applyBlock(views, Block.VERSE, styleIndex, outline, outlineWhite, color, verseSp);
         applyBlock(views, Block.REF, styleIndex, outline, outlineWhite, color, refSp);
 
-        // =========================
-        // ✅ 5) Click -> open app
-        // =========================
         Intent launchIntent = context.getPackageManager().getLaunchIntentForPackage(context.getPackageName());
         if (launchIntent != null) {
             PendingIntent pi = PendingIntent.getActivity(
@@ -142,15 +145,11 @@ public class VerseWidgetProvider extends AppWidgetProvider {
         appWidgetManager.updateAppWidget(appWidgetId, views);
     }
 
-    // =========================
-    // Helpers
-    // =========================
-
     private static void setTextForAllVariants(RemoteViews views, int[] base, int[] olb, int[] olw, String text) {
         if (text == null) text = "";
         for (int id : base) views.setTextViewText(id, text);
-        for (int id : olb)  views.setTextViewText(id, text);
-        for (int id : olw)  views.setTextViewText(id, text);
+        for (int id : olb) views.setTextViewText(id, text);
+        for (int id : olw) views.setTextViewText(id, text);
     }
 
     private enum Block { TONE, VERSE, REF }
@@ -160,40 +159,33 @@ public class VerseWidgetProvider extends AppWidgetProvider {
                                    int styleIndex,
                                    boolean outline,
                                    boolean outlineWhite,
-                                   int textColor,
+                                   int color,
                                    float sizeSp) {
 
         int[] base = idsBase(block);
-        int[] olb  = idsOlb(block);
-        int[] olw  = idsOlw(block);
+        int[] olb = idsOlb(block);
+        int[] olw = idsOlw(block);
 
         hideAll(views, base);
         hideAll(views, olb);
         hideAll(views, olw);
 
-        int showId;
+        int targetId;
         if (!outline) {
-            showId = pickByStyle(styleIndex, base);
-        } else if (outlineWhite) {
-            showId = pickByStyle(styleIndex, olw);
+            targetId = base[styleIndex];
         } else {
-            showId = pickByStyle(styleIndex, olb);
+            targetId = outlineWhite ? olw[styleIndex] : olb[styleIndex];
         }
 
-        views.setViewVisibility(showId, View.VISIBLE);
-        views.setTextColor(showId, textColor);
-        views.setTextViewTextSize(showId, TypedValue.COMPLEX_UNIT_SP, sizeSp);
+        views.setViewVisibility(targetId, View.VISIBLE);
+        views.setTextColor(targetId, color);
+        views.setTextViewTextSize(targetId, android.util.TypedValue.COMPLEX_UNIT_SP, sizeSp);
     }
 
     private static void hideAll(RemoteViews views, int[] ids) {
-        for (int id : ids) views.setViewVisibility(id, View.GONE);
-    }
-
-    private static int pickByStyle(int styleIndex, int[] arr4) {
-        if (styleIndex == 1) return arr4[1];
-        if (styleIndex == 2) return arr4[2];
-        if (styleIndex == 3) return arr4[3];
-        return arr4[0];
+        for (int id : ids) {
+            views.setViewVisibility(id, View.GONE);
+        }
     }
 
     private static int[] idsBase(Block b) {
