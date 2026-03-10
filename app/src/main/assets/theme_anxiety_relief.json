@@ -1,0 +1,5602 @@
+[
+  {
+    "type": "VERSE",
+    "text": "For every man shall bear his own burden.",
+    "reference": "Galatians 6:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "There is no fear of God before their eyes.",
+    "reference": "Romans 3:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The burden which Habakkuk the prophet did see.",
+    "reference": "Habakkuk 1:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For my yoke [is] easy, and my burden is light.",
+    "reference": "Matthew 11:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But he saith unto them, It is I; be not afraid.",
+    "reference": "John 6:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "In the year that king Ahaz died was this burden.",
+    "reference": "Isaiah 14:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Serve the LORD with fear, and rejoice with trembling.",
+    "reference": "Psalms 2:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For he wist not what to say; for they were sore afraid.",
+    "reference": "Mark 9:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Submitting yourselves one to another in the fear of God.",
+    "reference": "Ephesians 5:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Howbeit no man spake openly of him for fear of the Jews.",
+    "reference": "John 7:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The burden of the word of the LORD to Israel by Malachi.",
+    "reference": "Malachi 1:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Them that sin rebuke before all, that others also may fear.",
+    "reference": "1 Timothy 5:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then I said unto you, Dread not, neither be afraid of them.",
+    "reference": "Deuteronomy 1:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Upon earth there is not his like, who is made without fear.",
+    "reference": "Job 41:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The burden of Babylon, which Isaiah the son of Amoz did see.",
+    "reference": "Isaiah 13:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear and a snare is come upon us, desolation and destruction.",
+    "reference": "Lamentations 3:47",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yea, thou castest off fear, and restrainest prayer before God.",
+    "reference": "Job 15:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He will bless them that fear the LORD, [both] small and great.",
+    "reference": "Psalms 115:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "While they behold your chaste conversation [coupled] with fear.",
+    "reference": "1 Peter 3:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear ye not therefore, ye are of more value than many sparrows.",
+    "reference": "Matthew 10:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The righteous also shall see, and fear, and shall laugh at him:",
+    "reference": "Psalms 52:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But they understood not that saying, and were afraid to ask him.",
+    "reference": "Mark 9:32",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I am afraid of you, lest I have bestowed upon you labour in vain.",
+    "reference": "Galatians 4:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For now ye are nothing; ye see [my] casting down, and are afraid.",
+    "reference": "Job 6:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou shalt not rule over him with rigour; but shalt fear thy God.",
+    "reference": "Leviticus 25:43",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Stablish thy word unto thy servant, who [is devoted] to thy fear.",
+    "reference": "Psalms 119:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Turn away my reproach which I fear: for thy judgments [are] good.",
+    "reference": "Psalms 119:39",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "God shall bless us; and all the ends of the earth shall fear him.",
+    "reference": "Psalms 67:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Honour all [men]. Love the brotherhood. Fear God. Honour the king.",
+    "reference": "1 Peter 2:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# When Pilate therefore heard that saying, he was the more afraid;",
+    "reference": "John 19:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And I was with you in weakness, and in fear, and in much trembling.",
+    "reference": "1 Corinthians 2:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear came upon me, and trembling, which made all my bones to shake.",
+    "reference": "Job 4:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let him take his rod away from me, and let not his fear terrify me:",
+    "reference": "Job 9:34",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[Then] would I speak, and not fear him; but [it is] not so with me.",
+    "reference": "Job 9:35",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The LORD [is] on my side; I will not fear: what can man do unto me?",
+    "reference": "Psalms 118:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Joseph said unto them, Fear not: for [am] I in the place of God?",
+    "reference": "Genesis 50:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jesus came and touched them, and said, Arise, and be not afraid.",
+    "reference": "Matthew 17:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And for fear of him the keepers did shake, and became as dead [men].",
+    "reference": "Matthew 28:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou holdest mine eyes waking: I am so troubled that I cannot speak.",
+    "reference": "Psalms 77:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Ye shall not fear them: for the LORD your God he shall fight for you.",
+    "reference": "Deuteronomy 3:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then Satan answered the LORD, and said, Doth Job fear God for nought?",
+    "reference": "Job 1:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Dominion and fear [are] with him, he maketh peace in his high places.",
+    "reference": "Job 25:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The burden of Nineveh. The book of the vision of Nahum the Elkoshite.",
+    "reference": "Nahum 1:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For I have no man likeminded, who will naturally care for your state.",
+    "reference": "Philippians 2:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Be not wise in thine own eyes: fear the LORD, and depart from evil.",
+    "reference": "Proverbs 3:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear took hold upon them there, [and] pain, as of a woman in travail.",
+    "reference": "Psalms 48:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For we are consumed by thine anger, and by thy wrath are we troubled.",
+    "reference": "Psalms 90:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Shall not his excellency make you afraid? and his dread fall upon you?",
+    "reference": "Job 13:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Withdraw thine hand far from me: and let not thy dread make me afraid.",
+    "reference": "Job 13:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let not your heart be troubled: ye believe in God, believe also in me.",
+    "reference": "John 14:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when Zacharias saw [him], he was troubled, and fear fell upon him.",
+    "reference": "Luke 1:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I also will laugh at your calamity; I will mock when your fear cometh;",
+    "reference": "Proverbs 1:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "My flesh trembleth for fear of thee; and I am afraid of thy judgments.",
+    "reference": "Psalms 119:120",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And all the people shall hear, and fear, and do no more presumptuously.",
+    "reference": "Deuteronomy 17:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And his mercy [is] on them that fear him from generation to generation.",
+    "reference": "Luke 1:50",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For that they hated knowledge, and did not choose the fear of the LORD:",
+    "reference": "Proverbs 1:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Egypt was glad when they departed: for the fear of them fell upon them.",
+    "reference": "Psalms 105:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD.",
+    "reference": "Psalms 135:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The strangers shall fade away, and be afraid out of their close places.",
+    "reference": "Psalms 18:45",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I am troubled; I am bowed down greatly; I go mourning all the day long.",
+    "reference": "Psalms 38:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Even when I remember I am afraid, and trembling taketh hold on my flesh.",
+    "reference": "Job 21:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore snares [are] round about thee, and sudden fear troubleth thee;",
+    "reference": "Job 22:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let them now that fear the LORD say, that his mercy [endureth] for ever.",
+    "reference": "Psalms 118:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So persecute them with thy tempest, and make them afraid with thy storm.",
+    "reference": "Psalms 83:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Their houses [are] safe from fear, neither [is] the rod of God upon them.",
+    "reference": "Job 21:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Men do therefore fear him: he respecteth not any [that are] wise of heart.",
+    "reference": "Job 37:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I am afraid of all my sorrows, I know that thou wilt not hold me innocent.",
+    "reference": "Job 9:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By humility [and] the fear of the LORD [are] riches, and honour, and life.",
+    "reference": "Proverbs 22:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Come, ye children, hearken unto me: I will teach you the fear of the LORD.",
+    "reference": "Psalms 34:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Fear not, O land; be glad and rejoice: for the LORD will do great things.",
+    "reference": "Joel 2:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They saw [it, and] so they marvelled; they were troubled, [and] hasted away.",
+    "reference": "Psalms 48:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
+    "reference": "Psalms 64:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "How can I myself alone bear your cumbrance, and your burden, and your strife?",
+    "reference": "Deuteronomy 1:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.",
+    "reference": "Deuteronomy 6:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Joseph said unto them the third day, This do, and live; [for] I fear God:",
+    "reference": "Genesis 42:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear, and the pit, and the snare, [are] upon thee, O inhabitant of the earth.",
+    "reference": "Isaiah 24:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Terrors shall make him afraid on every side, and shall drive him to his feet.",
+    "reference": "Job 18:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Will he reprove thee for fear of thee? will he enter with thee into judgment?",
+    "reference": "Job 22:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore am I troubled at his presence: when I consider, I am afraid of him.",
+    "reference": "Job 23:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O fear the LORD, ye his saints: for [there is] no want to them that fear him.",
+    "reference": "Psalms 34:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O worship the LORD in the beauty of holiness: fear before him, all the earth.",
+    "reference": "Psalms 96:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Strangers shall fade away, and they shall be afraid out of their close places.",
+    "reference": "2 Samuel 22:46",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass's colt.",
+    "reference": "John 12:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But if thou fear to go down, go thou with Phurah thy servant down to the host:",
+    "reference": "Judges 7:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou drewest near in the day [that] I called upon thee: thou saidst, Fear not.",
+    "reference": "Lamentations 3:57",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When the waves of death compassed me, the floods of ungodly men made me afraid;",
+    "reference": "2 Samuel 22:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the LORD said unto him, Peace [be] unto thee; fear not: thou shalt not die.",
+    "reference": "Judges 6:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then shalt thou understand the fear of the LORD, and find the knowledge of God.",
+    "reference": "Proverbs 2:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "There were they in great fear: for God [is] in the generation of the righteous.",
+    "reference": "Psalms 14:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I removed his shoulder from the burden: his hands were delivered from the pots.",
+    "reference": "Psalms 81:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And great fear came upon all the church, and upon as many as heard these things.",
+    "reference": "Acts 5:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But as for thee and thy servants, I know that ye will not yet fear the LORD God.",
+    "reference": "Exodus 9:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And so terrible was the sight, [that] Moses said, I exceedingly fear and quake:)",
+    "reference": "Hebrews 12:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But if we shall say, Of men; we fear the people; for all hold John as a prophet.",
+    "reference": "Matthew 21:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The LORD taketh pleasure in them that fear him, in those that hope in his mercy.",
+    "reference": "Psalms 147:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The sorrows of death compassed me, and the floods of ungodly men made me afraid.",
+    "reference": "Psalms 18:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the angel said unto her, Fear not, Mary: for thou hast found favour with God.",
+    "reference": "Luke 1:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when the disciples heard [it], they fell on their face, and were sore afraid.",
+    "reference": "Matthew 17:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of the LORD [is] a fountain of life, to depart from the snares of death.",
+    "reference": "Proverbs 14:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD.",
+    "reference": "Psalms 112:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let those that fear thee turn unto me, and those that have known thy testimonies.",
+    "reference": "Psalms 119:79",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him.",
+    "reference": "1 Samuel 18:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He mocketh at fear, and is not affrighted; neither turneth he back from the sword.",
+    "reference": "Job 39:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Like as a father pitieth [his] children, [so] the LORD pitieth them that fear him.",
+    "reference": "Psalms 103:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Be not afraid of their faces: for I [am] with thee to deliver thee, saith the LORD.",
+    "reference": "Jeremiah 1:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Be not thou afraid when one is made rich, when the glory of his house is increased;",
+    "reference": "Psalms 49:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And fear came upon every soul: and many wonders and signs were done by the apostles.",
+    "reference": "Acts 2:43",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[Is] not [this] thy fear, thy confidence, thy hope, and the uprightness of thy ways?",
+    "reference": "Job 4:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He hath given meat unto them that fear him: he will ever be mindful of his covenant.",
+    "reference": "Psalms 111:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I [am] a companion of all [them] that fear thee, and of them that keep thy precepts.",
+    "reference": "Psalms 119:63",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They that fear thee will be glad when they see me; because I have hoped in thy word.",
+    "reference": "Psalms 119:74",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The angel of the LORD encampeth round about them that fear him, and delivereth them.",
+    "reference": "Psalms 34:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They shall fear thee as long as the sun and moon endure, throughout all generations.",
+    "reference": "Psalms 72:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Surely his salvation [is] nigh them that fear him; that glory may dwell in our land.",
+    "reference": "Psalms 85:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who knoweth the power of thine anger? even according to thy fear, [so is] thy wrath.",
+    "reference": "Psalms 90:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear before him, all the earth: the world also shall be stable, that it be not moved.",
+    "reference": "1 Chronicles 16:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Saul was yet the more afraid of David; and Saul became David's enemy continually.",
+    "reference": "1 Samuel 18:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Canst thou make him afraid as a grasshopper? the glory of his nostrils [is] terrible.",
+    "reference": "Job 39:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?",
+    "reference": "Luke 24:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of the LORD prolongeth days: but the years of the wicked shall be shortened.",
+    "reference": "Proverbs 10:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of the LORD [is] the instruction of wisdom; and before honour [is] humility.",
+    "reference": "Proverbs 15:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And all the men of Israel, when they saw the man, fled from him, and were sore afraid.",
+    "reference": "1 Samuel 17:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Unto whom David said, If thou passest on with me, then thou shalt be a burden unto me:",
+    "reference": "2 Samuel 15:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they troubled the people and the rulers of the city, when they heard these things.",
+    "reference": "Acts 17:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And deliver them who through fear of death were all their lifetime subject to bondage.",
+    "reference": "Hebrews 2:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear not, little flock; for it is your Father's good pleasure to give you the kingdom.",
+    "reference": "Luke 12:32",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+    "reference": "Proverbs 1:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.",
+    "reference": "Proverbs 3:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The isles saw [it], and feared; the ends of the earth were afraid, drew near, and came.",
+    "reference": "Isaiah 41:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For thus saith the LORD; We have heard a voice of trembling, of fear, and not of peace.",
+    "reference": "Jeremiah 30:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.",
+    "reference": "Job 33:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Better [is] little with the fear of the LORD than great treasure and trouble therewith.",
+    "reference": "Proverbs 15:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.",
+    "reference": "Psalms 77:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.",
+    "reference": "2 Corinthians 12:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But thanks [be] to God, which put the same earnest care into the heart of Titus for you.",
+    "reference": "2 Corinthians 8:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?",
+    "reference": "Amos 3:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid.",
+    "reference": "Matthew 14:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The secret of the LORD [is] with them that fear him; and he will shew them his covenant.",
+    "reference": "Psalms 25:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Come [and] hear, all ye that fear God, and I will declare what he hath done for my soul.",
+    "reference": "Psalms 66:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:",
+    "reference": "Psalms 83:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Put them in fear, O LORD: [that] the nations may know themselves [to be but] men. Selah.",
+    "reference": "Psalms 9:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.",
+    "reference": "Job 4:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let not thine heart envy sinners: but [be thou] in the fear of the LORD all the day long.",
+    "reference": "Proverbs 23:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory.",
+    "reference": "Psalms 102:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And Saul was afraid of David, because the LORD was with him, and was departed from Saul.",
+    "reference": "1 Samuel 18:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When Herod the king had heard [these things], he was troubled, and all Jerusalem with him.",
+    "reference": "Matthew 2:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By mercy and truth iniquity is purged: and by the fear of the LORD [men] depart from evil.",
+    "reference": "Proverbs 16:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him.",
+    "reference": "Psalms 33:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.",
+    "reference": "Psalms 38:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.",
+    "reference": "Psalms 64:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath.",
+    "reference": "1 Samuel 21:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath.",
+    "reference": "1 Samuel 21:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Behold, the eye of the LORD [is] upon them that fear him, upon them that hope in his mercy;",
+    "reference": "Psalms 33:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou shalt not be afraid for the terror by night; [nor] for the arrow [that] flieth by day;",
+    "reference": "Psalms 91:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And David was afraid of God that day, saying, How shall I bring the ark of God [home] to me?",
+    "reference": "1 Chronicles 13:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[We are] troubled on every side, yet not distressed; [we are] perplexed, but not in despair;",
+    "reference": "2 Corinthians 4:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when Saul saw the host of the Philistines, he was afraid, and his heart greatly trembled.",
+    "reference": "1 Samuel 28:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+    "reference": "2 Timothy 1:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory.",
+    "reference": "Isaiah 20:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear, and the pit, and the snare, [shall be] upon thee, O inhabitant of Moab, saith the LORD.",
+    "reference": "Jeremiah 48:43",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "My son, fear thou the LORD and the king: [and] meddle not with them that are given to change:",
+    "reference": "Proverbs 24:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For as the heaven is high above the earth, [so] great is his mercy toward them that fear him.",
+    "reference": "Psalms 103:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And David was afraid of the LORD that day, and said, How shall the ark of the LORD come to me?",
+    "reference": "2 Samuel 6:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For I the LORD thy God will hold thy right hand, saying unto thee, Fear not; I will help thee.",
+    "reference": "Isaiah 41:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.",
+    "reference": "Leviticus 25:36",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "In the fear of the LORD [is] strong confidence: and his children shall have a place of refuge.",
+    "reference": "Proverbs 14:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him.",
+    "reference": "1 Samuel 16:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "(For if a man know not how to rule his own house, how shall he take care of the church of God?)",
+    "reference": "1 Timothy 3:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he answered, Fear not: for they that [be] with us [are] more than they that [be] with them.",
+    "reference": "2 Kings 6:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The people shall hear, [and] be afraid: sorrow shall take hold on the inhabitants of Palestina.",
+    "reference": "Exodus 15:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "As for me, [is] my complaint to man? and if [it were so], why should not my spirit be troubled?",
+    "reference": "Job 21:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "His heart [is] established, he shall not be afraid, until he see [his desire] upon his enemies.",
+    "reference": "Psalms 112:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Sanctify the LORD of hosts himself; and [let] him [be] your fear, and [let] him [be] your dread.",
+    "reference": "Isaiah 8:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the covenant that I have made with you ye shall not forget; neither shall ye fear other gods.",
+    "reference": "2 Kings 17:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore shall the strong people glorify thee, the city of the terrible nations shall fear thee.",
+    "reference": "Isaiah 25:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Also thou shalt lie down, and none shall make [thee] afraid; yea, many shall make suit unto thee.",
+    "reference": "Job 11:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
+    "reference": "Job 41:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.",
+    "reference": "Proverbs 10:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "A righteous man falling down before the wicked [is as] a troubled fountain, and a corrupt spring.",
+    "reference": "Proverbs 25:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.",
+    "reference": "Psalms 145:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled.",
+    "reference": "Psalms 77:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And all the guests that [were] with Adonijah were afraid, and rose up, and went every man his way.",
+    "reference": "1 Kings 1:49",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But the LORD your God ye shall fear; and he shall deliver you out of the hand of all your enemies.",
+    "reference": "2 Kings 17:39",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream.",
+    "reference": "Daniel 2:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So that we may boldly say, The Lord [is] my helper, and I will not fear what man shall do unto me.",
+    "reference": "Hebrews 13:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Be astonished, O ye heavens, at this, and be horribly afraid, be ye very desolate, saith the LORD.",
+    "reference": "Jeremiah 2:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And I was afraid, and went and hid thy talent in the earth: lo, [there] thou hast [that is] thine.",
+    "reference": "Matthew 25:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "She is not afraid of the snow for her household: for all her household [are] clothed with scarlet.",
+    "reference": "Proverbs 31:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That they may fear thee all the days that they live in the land which thou gavest unto our fathers.",
+    "reference": "1 Kings 8:40",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And all Israel shall hear, and fear, and shall do no more any such wickedness as this is among you.",
+    "reference": "Deuteronomy 13:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear not: for I [am] with thee: I will bring thy seed from the east, and gather thee from the west;",
+    "reference": "Isaiah 43:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:",
+    "reference": "Job 11:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# The fear of the LORD [is] the beginning of knowledge: [but] fools despise wisdom and instruction.",
+    "reference": "Proverbs 1:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will not be afraid of ten thousands of people, that have set [themselves] against me round about.",
+    "reference": "Psalms 3:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For thou, O God, hast heard my vows: thou hast given [me] the heritage of those that fear thy name.",
+    "reference": "Psalms 61:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Beside those things that are without, that which cometh upon me daily, the care of all the churches.",
+    "reference": "2 Corinthians 11:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For in the multitude of dreams and many words [there are] also [divers] vanities: but fear thou God.",
+    "reference": "Ecclesiastes 5:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But the wicked [are] like the troubled sea, when it cannot rest, whose waters cast up mire and dirt.",
+    "reference": "Isaiah 57:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.",
+    "reference": "Job 5:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother.",
+    "reference": "Judges 9:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of the LORD [is] the beginning of wisdom: and the knowledge of the holy [is] understanding.",
+    "reference": "Proverbs 9:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore should I fear in the days of evil, [when] the iniquity of my heels shall compass me about?",
+    "reference": "Psalms 49:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations.",
+    "reference": "1 Chronicles 14:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Art thou called [being] a servant? care not for it: but if thou mayest be made free, use [it] rather.",
+    "reference": "1 Corinthians 7:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid.",
+    "reference": "1 Samuel 17:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore thou shalt keep the commandments of the LORD thy God, to walk in his ways, and to fear him.",
+    "reference": "Deuteronomy 8:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then the people of the land weakened the hands of the people of Judah, and troubled them in building,",
+    "reference": "Ezra 4:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh.",
+    "reference": "Genesis 18:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.",
+    "reference": "Job 3:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Ye shall fear every man his mother, and his father, and keep my sabbaths: I [am] the LORD your God.",
+    "reference": "Leviticus 19:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "My praise [shall be] of thee in the great congregation: I will pay my vows before them that fear him.",
+    "reference": "Psalms 22:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# I Daniel was grieved in my spirit in the midst of [my] body, and the visions of my head troubled me.",
+    "reference": "Daniel 7:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "My heart panted, fearfulness affrighted me: the night of my pleasure hath he turned into fear unto me.",
+    "reference": "Isaiah 21:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Ye shall not therefore oppress one another; but thou shalt fear thy God: for I [am] the LORD your God.",
+    "reference": "Leviticus 25:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:",
+    "reference": "Luke 10:41",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The transgression of the wicked saith within my heart, [that there is] no fear of God before his eyes.",
+    "reference": "Psalms 36:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah.",
+    "reference": "Psalms 60:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "In that day it shall be said to Jerusalem, Fear thou not: [and to] Zion, Let not thine hands be slack.",
+    "reference": "Zephaniah 3:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:",
+    "reference": "Acts 18:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim.",
+    "reference": "Isaiah 21:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
+    "reference": "Proverbs 3:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.",
+    "reference": "Psalms 64:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not.",
+    "reference": "Zechariah 8:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I saw a dream which made me afraid, and the thoughts upon my bed and the visions of my head troubled me.",
+    "reference": "Daniel 4:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said, I heard thy voice in the garden, and I was afraid, because I [was] naked; and I hid myself.",
+    "reference": "Genesis 3:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?",
+    "reference": "Isaiah 22:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And others save with fear, pulling [them] out of the fire; hating even the garment spotted by the flesh.",
+    "reference": "Jude 1:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But when Jesus heard [it], he answered him, saying, Fear not: believe only, and she shall be made whole.",
+    "reference": "Luke 8:50",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:",
+    "reference": "Romans 11:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.",
+    "reference": "Deuteronomy 19:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.",
+    "reference": "Isaiah 2:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.",
+    "reference": "Job 15:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;",
+    "reference": "Luke 18:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+    "reference": "Psalms 55:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then Paul stood up, and beckoning with [his] hand said, Men of Israel, and ye that fear God, give audience.",
+    "reference": "Acts 13:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The burden of Damascus. Behold, Damascus is taken away from [being] a city, and it shall be a ruinous heap.",
+    "reference": "Isaiah 17:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Go not forth into the field, nor walk by the way; for the sword of the enemy [and] fear [is] on every side.",
+    "reference": "Jeremiah 6:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "She is hardened against her young ones, as though [they were] not hers: her labour is in vain without fear;",
+    "reference": "Job 39:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.",
+    "reference": "Matthew 14:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.",
+    "reference": "Psalms 104:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart.",
+    "reference": "2 Chronicles 19:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then shall we stand?",
+    "reference": "2 Kings 10:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou shalt fear the LORD thy God; him shalt thou serve, and to him shalt thou cleave, and swear by his name.",
+    "reference": "Deuteronomy 10:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "To him that is afflicted pity [should be shewed] from his friend; but he forsaketh the fear of the Almighty.",
+    "reference": "Job 6:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That there should be no schism in the body; but [that] the members should have the same care one for another.",
+    "reference": "1 Corinthians 12:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the LORD'S anointed?",
+    "reference": "2 Samuel 1:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.",
+    "reference": "Job 5:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# The burden of Dumah. He calleth to me out of Seir, Watchman, what of the night? Watchman, what of the night?",
+    "reference": "Isaiah 21:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.",
+    "reference": "Isaiah 46:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?",
+    "reference": "Luke 23:40",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.",
+    "reference": "Matthew 28:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;",
+    "reference": "Acts 15:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.",
+    "reference": "Daniel 5:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, [and] I was troubled.",
+    "reference": "Psalms 30:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.",
+    "reference": "Matthew 28:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of a king [is] as the roaring of a lion: [whoso] provoketh him to anger sinneth [against] his own soul.",
+    "reference": "Proverbs 20:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Servants, [be] subject to [your] masters with all fear; not only to the good and gentle, but also to the froward.",
+    "reference": "1 Peter 2:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And unto man he said, Behold, the fear of the Lord, that [is] wisdom; and to depart from evil [is] understanding.",
+    "reference": "Job 28:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,",
+    "reference": "Luke 1:74",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of the LORD [is] to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.",
+    "reference": "Proverbs 8:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That they may fear thee, to walk in thy ways, so long as they live in the land which thou gavest unto our fathers.",
+    "reference": "2 Chronicles 6:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled.",
+    "reference": "Isaiah 10:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I [am] the LORD.",
+    "reference": "Leviticus 19:32",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.",
+    "reference": "Psalms 22:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[Though] the waters thereof roar [and] be troubled, [though] the mountains shake with the swelling thereof. Selah.",
+    "reference": "Psalms 46:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,",
+    "reference": "2 Thessalonians 1:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh's army,",
+    "reference": "Jeremiah 37:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.",
+    "reference": "Luke 12:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the LORD.",
+    "reference": "1 Chronicles 21:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I [am] the LORD.",
+    "reference": "Leviticus 19:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.",
+    "reference": "Matthew 10:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of the LORD [is] clean, enduring for ever: the judgments of the LORD [are] true [and] righteous altogether.",
+    "reference": "Psalms 19:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They all hold swords, [being] expert in war: every man [hath] his sword upon his thigh because of fear in the night.",
+    "reference": "Solomon's Song 3:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also [do].",
+    "reference": "1 Corinthians 16:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But and if ye suffer for righteousness' sake, happy [are ye]: and be not afraid of their terror, neither be troubled;",
+    "reference": "1 Peter 3:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Only fear the LORD, and serve him in truth with all your heart: for consider how great [things] he hath done for you.",
+    "reference": "1 Samuel 12:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou [shalt be] in safeguard.",
+    "reference": "1 Samuel 22:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when Saul's son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.",
+    "reference": "2 Samuel 4:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And all people of the earth shall see that thou art called by the name of the LORD; and they shall be afraid of thee.",
+    "reference": "Deuteronomy 28:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Esther said, The adversary and enemy [is] this wicked Haman. Then Haman was afraid before the king and the queen.",
+    "reference": "Esther 7:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Be ye afraid of the sword: for wrath [bringeth] the punishments of the sword, that ye may know [there is] a judgment.",
+    "reference": "Job 19:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me.",
+    "reference": "Matthew 28:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet.",
+    "reference": "Ruth 3:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee.",
+    "reference": "Acts 27:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The cities of Aroer [are] forsaken: they shall be for flocks, which shall lie down, and none shall make [them] afraid.",
+    "reference": "Isaiah 17:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.",
+    "reference": "Isaiah 32:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.",
+    "reference": "Luke 12:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when she saw [him], she was troubled at his saying, and cast in her mind what manner of salutation this should be.",
+    "reference": "Luke 1:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Also they reported his good deeds before me, and uttered my words to him. [And] Tobiah sent letters to put me in fear.",
+    "reference": "Nehemiah 6:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.",
+    "reference": "Philippians 1:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.",
+    "reference": "Acts 22:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Moreover he will bring upon thee all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee.",
+    "reference": "Deuteronomy 28:60",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou shalt not be afraid of them: [but] shalt well remember what the LORD thy God did unto Pharaoh, and unto all Egypt;",
+    "reference": "Deuteronomy 7:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.",
+    "reference": "Genesis 50:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.",
+    "reference": "Mark 5:36",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of the LORD [tendeth] to life: and [he that hath it] shall abide satisfied; he shall not be visited with evil.",
+    "reference": "Proverbs 19:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;",
+    "reference": "Psalms 46:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.",
+    "reference": "John 12:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day.",
+    "reference": "Luke 5:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+    "reference": "Luke 2:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The God of Israel said, the Rock of Israel spake to me, He that ruleth over men [must be] just, ruling in the fear of God.",
+    "reference": "2 Samuel 23:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.",
+    "reference": "Acts 5:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And it came to pass, when she was in hard labour, that the midwife said unto her, Fear not; thou shalt have this son also.",
+    "reference": "Genesis 35:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yet they were not afraid, nor rent their garments, [neither] the king, nor any of his servants that heard all these words.",
+    "reference": "Jeremiah 36:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:",
+    "reference": "Deuteronomy 28:66",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this [is] the whole [duty] of man.",
+    "reference": "Ecclesiastes 12:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.",
+    "reference": "Luke 2:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.",
+    "reference": "Matthew 14:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
+    "reference": "Proverbs 1:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now shall the isles tremble in the day of thy fall; yea, the isles that [are] in the sea shall be troubled at thy departure.",
+    "reference": "Ezekiel 26:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[According to] the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.",
+    "reference": "Haggai 2:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said unto them, I [am] an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry [land].",
+    "reference": "Jonah 1:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Moab was sore afraid of the people, because they [were] many: and Moab was distressed because of the children of Israel.",
+    "reference": "Numbers 22:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And a voice came out of the throne, saying, Praise our God, all ye his servants, and ye that fear him, both small and great.",
+    "reference": "Revelation 19:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Abraham said, Because I thought, Surely the fear of God [is] not in this place; and they will slay me for my wife's sake.",
+    "reference": "Genesis 20:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said, I [am] God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:",
+    "reference": "Genesis 46:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let us therefore fear, lest, a promise being left [us] of entering into his rest, any of you should seem to come short of it.",
+    "reference": "Hebrews 4:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The LORD [is] my light and my salvation; whom shall I fear? the LORD [is] the strength of my life; of whom shall I be afraid?",
+    "reference": "Psalms 27:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Fear not, thou worm Jacob, [and] ye men of Israel; I will help thee, saith the LORD, and thy redeemer, the Holy One of Israel.",
+    "reference": "Isaiah 41:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For thou hast broken the yoke of his burden, and the staff of his shoulder, the rod of his oppressor, as in the day of Midian.",
+    "reference": "Isaiah 9:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, [and] went not out of the door?",
+    "reference": "Job 31:34",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And as they were afraid, and bowed down [their] faces to the earth, they said unto them, Why seek ye the living among the dead?",
+    "reference": "Luke 24:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,",
+    "reference": "John 11:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.",
+    "reference": "Psalms 55:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will gather [them that are] sorrowful for the solemn assembly, [who] are of thee, [to whom] the reproach of it [was] a burden.",
+    "reference": "Zephaniah 3:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Say ye not, A confederacy, to all [them to] whom this people shall say, A confederacy; neither fear ye their fear, nor be afraid.",
+    "reference": "Isaiah 8:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thus saith the LORD; Take heed to yourselves, and bear no burden on the sabbath day, nor bring [it] in by the gates of Jerusalem;",
+    "reference": "Jeremiah 17:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The merchants of these things, which were made rich by her, shall stand afar off for the fear of her torment, weeping and wailing,",
+    "reference": "Revelation 18:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done [it]?",
+    "reference": "Amos 3:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.",
+    "reference": "Exodus 34:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The burden of the desert of the sea. As whirlwinds in the south pass through; [so] it cometh from the desert, from a terrible land.",
+    "reference": "Isaiah 21:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But as for me, I will come [into] thy house in the multitude of thy mercy: [and] in thy fear will I worship toward thy holy temple.",
+    "reference": "Psalms 5:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+    "reference": "1 John 4:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.",
+    "reference": "1 Peter 3:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.",
+    "reference": "Exodus 20:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And I will give them one heart, and one way, that they may fear me for ever, for the good of them, and of their children after them:",
+    "reference": "Jeremiah 32:39",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I will deliver thee in that day, saith the LORD: and thou shalt not be given into the hand of the men of whom thou [art] afraid.",
+    "reference": "Jeremiah 39:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the king said unto her, Be not afraid: for what sawest thou? And the woman said unto Saul, I saw gods ascending out of the earth.",
+    "reference": "1 Samuel 28:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.",
+    "reference": "Genesis 31:53",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That all the people of the earth might know the hand of the LORD, that it [is] mighty: that ye might fear the LORD your God for ever.",
+    "reference": "Joshua 4:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea.",
+    "reference": "Luke 1:65",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this [will] I [be] confident.",
+    "reference": "Psalms 27:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.",
+    "reference": "Exodus 23:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.",
+    "reference": "Psalms 65:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Render therefore to all their dues: tribute to whom tribute [is due]; custom to whom custom; fear to whom fear; honour to whom honour.",
+    "reference": "Romans 13:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king.",
+    "reference": "2 Kings 1:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he was afraid, and said, How dreadful [is] this place! this [is] none other but the house of God, and this [is] the gate of heaven.",
+    "reference": "Genesis 28:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure thou wouldest take by force thy daughters from me.",
+    "reference": "Genesis 31:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Saying, These last have wrought [but] one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day.",
+    "reference": "Matthew 20:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But the mercy of the LORD [is] from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;",
+    "reference": "Psalms 103:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "anxiety_relief",
+        "weight": 85
+      }
+    ]
+  }
+]

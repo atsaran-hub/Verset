@@ -1,0 +1,2626 @@
+[
+  {
+    "type": "VERSE",
+    "text": "A little leaven leaveneth the whole lump.",
+    "reference": "Galatians 5:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jesus saith unto him, I will come and heal him.",
+    "reference": "Matthew 8:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Of whom the whole family in heaven and earth is named,",
+    "reference": "Ephesians 3:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the LORD hearkened to Hezekiah, and healed the people.",
+    "reference": "2 Chronicles 30:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O LORD my God, I cried unto thee, and thou hast healed me.",
+    "reference": "Psalms 30:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the whole earth was of one language, and of one speech.",
+    "reference": "Genesis 11:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And great multitudes followed him; and he healed them there.",
+    "reference": "Matthew 19:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He healeth the broken in heart, and bindeth up their wounds.",
+    "reference": "Psalms 147:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "My wounds stink [and] are corrupt because of my foolishness.",
+    "reference": "Psalms 38:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And to have power to heal sicknesses, and to cast out devils:",
+    "reference": "Mark 3:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the whole multitude of them arose, and led him unto Pilate.",
+    "reference": "Luke 23:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For she said, If I may touch but his clothes, I shall be whole.",
+    "reference": "Mark 5:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they that were vexed with unclean spirits: and they were healed.",
+    "reference": "Luke 6:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he sent them to preach the kingdom of God, and to heal the sick.",
+    "reference": "Luke 9:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the blind and the lame came to him in the temple; and he healed them.",
+    "reference": "Matthew 21:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I cried with [my] whole heart; hear me, O LORD: I will keep thy statutes.",
+    "reference": "Psalms 119:145",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[And] we know that we are of God, and the whole world lieth in wickedness.",
+    "reference": "1 John 5:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole.",
+    "reference": "Job 5:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Have all the gifts of healing? do all speak with tongues? do all interpret?",
+    "reference": "1 Corinthians 12:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For he breaketh me with a tempest, and multiplieth my wounds without cause.",
+    "reference": "Job 9:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee.",
+    "reference": "Numbers 12:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For he looketh to the ends of the earth, [and] seeth under the whole heaven;",
+    "reference": "Job 28:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they held their peace. And he took [him], and healed him, and let him go;",
+    "reference": "Luke 14:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Ye [are] cursed with a curse: for ye have robbed me, [even] this whole nation.",
+    "reference": "Malachi 3:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For she said within herself, If I may but touch his garment, I shall be whole.",
+    "reference": "Matthew 9:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "These [are] the three sons of Noah: and of them was the whole earth overspread.",
+    "reference": "Genesis 9:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The lot is cast into the lap; but the whole disposing thereof [is] of the LORD.",
+    "reference": "Proverbs 16:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The man departed, and told the Jews that it was Jesus, which had made him whole.",
+    "reference": "John 5:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He sent his word, and healed them, and delivered [them] from their destructions.",
+    "reference": "Psalms 107:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee.",
+    "reference": "Psalms 41:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
+    "reference": "Ecclesiastes 3:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who hath given him a charge over the earth? or who hath disposed the whole world?",
+    "reference": "Job 34:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Moreover he called for a famine upon the land: he brake the whole staff of bread.",
+    "reference": "Psalms 105:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For the man was above forty years old, on whom this miracle of healing was shewed.",
+    "reference": "Acts 4:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But there went up a mist from the earth, and watered the whole face of the ground.",
+    "reference": "Genesis 2:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# The flesh also, in which, [even] in the skin thereof, was a boil, and is healed,",
+    "reference": "Leviticus 13:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the whole multitude of the people were praying without at the time of incense.",
+    "reference": "Luke 1:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Faithful [are] the wounds of a friend; but the kisses of an enemy [are] deceitful.",
+    "reference": "Proverbs 27:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "With my whole heart have I sought thee: O let me not wander from thy commandments.",
+    "reference": "Psalms 119:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thus saith the Lord GOD; When the whole earth rejoiceth, I will make thee desolate.",
+    "reference": "Ezekiel 35:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For as a snare shall it come on all them that dwell on the face of the whole earth.",
+    "reference": "Luke 21:35",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He directeth it under the whole heaven, and his lightning unto the ends of the earth.",
+    "reference": "Job 37:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will praise thee with my whole heart: before the gods will I sing praise unto thee.",
+    "reference": "Psalms 138:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Have mercy upon me, O LORD; for I [am] weak: O LORD, heal me; for my bones are vexed.",
+    "reference": "Psalms 6:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Your glorying [is] not good. Know ye not that a little leaven leaveneth the whole lump?",
+    "reference": "1 Corinthians 5:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And the next sabbath day came almost the whole city together to hear the word of God.",
+    "reference": "Acts 13:44",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Blessed [are] they that keep his testimonies, [and that] seek him with the whole heart.",
+    "reference": "Psalms 119:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For we know that the whole creation groaneth and travaileth in pain together until now.",
+    "reference": "Romans 8:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;",
+    "reference": "1 Corinthians 12:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him.",
+    "reference": "Luke 22:51",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?",
+    "reference": "Mark 8:36",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I intreated thy favour with [my] whole heart: be merciful unto me according to thy word.",
+    "reference": "Psalms 119:58",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
+    "reference": "Proverbs 1:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So the waters were healed unto this day, according to the saying of Elisha which he spake.",
+    "reference": "2 Kings 2:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.",
+    "reference": "John 5:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For whosoever shall keep the whole law, and yet offend in one [point], he is guilty of all.",
+    "reference": "James 2:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then said he, These [are] the two anointed ones, that stand by the Lord of the whole earth.",
+    "reference": "Zechariah 4:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So when this was done, others also, which had diseases in the island, came, and were healed:",
+    "reference": "Acts 28:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.",
+    "reference": "Ephesians 6:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they that were sent, returning to the house, found the servant whole that had been sick.",
+    "reference": "Luke 7:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?",
+    "reference": "Luke 9:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they cast out many devils, and anointed with oil many that were sick, and healed [them].",
+    "reference": "Mark 6:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# The whole congregation together [was] forty and two thousand three hundred and threescore,",
+    "reference": "Nehemiah 7:66",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And beholding the man which was healed standing with them, they could say nothing against it.",
+    "reference": "Acts 4:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.",
+    "reference": "Hosea 11:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they departed, and went through the towns, preaching the gospel, and healing every where.",
+    "reference": "Luke 9:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The proud have forged a lie against me: [but] I will keep thy precepts with [my] whole heart.",
+    "reference": "Psalms 119:69",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Paul dwelt two whole years in his own hired house, and received all that came in unto him,",
+    "reference": "Acts 28:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# The whole congregation together [was] forty and two thousand three hundred [and] threescore,",
+    "reference": "Ezra 2:64",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.",
+    "reference": "Galatians 5:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For thus hath the LORD said, The whole land shall be desolate; yet will I not make a full end.",
+    "reference": "Jeremiah 4:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour.",
+    "reference": "Mark 15:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will praise [thee], O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+    "reference": "Psalms 9:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who hath prevented me, that I should repay [him? whatsoever is] under the whole heaven is mine.",
+    "reference": "Job 41:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him.",
+    "reference": "Mark 3:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Give me understanding, and I shall keep thy law; yea, I shall observe it with [my] whole heart.",
+    "reference": "Psalms 119:34",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou [art] my praise.",
+    "reference": "Jeremiah 17:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.",
+    "reference": "Luke 10:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They also which saw [it] told them by what means he that was possessed of the devils was healed.",
+    "reference": "Luke 8:36",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# I will heal their backsliding, I will love them freely: for mine anger is turned away from him.",
+    "reference": "Hosea 14:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[There is] none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines.",
+    "reference": "Jeremiah 30:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,",
+    "reference": "Luke 17:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The words of a talebearer [are] as wounds, and they go down into the innermost parts of the belly.",
+    "reference": "Proverbs 18:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The words of a talebearer [are] as wounds, and they go down into the innermost parts of the belly.",
+    "reference": "Proverbs 26:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[Whose] hatred is covered by deceit, his wickedness shall be shewed before the [whole] congregation.",
+    "reference": "Proverbs 26:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.",
+    "reference": "Psalms 60:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If we this day be examined of the good deed done to the impotent man, by what means he is made whole;",
+    "reference": "Acts 4:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body.",
+    "reference": "James 3:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened.",
+    "reference": "Luke 13:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.",
+    "reference": "Luke 5:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the whole multitude sought to touch him: for there went virtue out of him, and healed [them] all.",
+    "reference": "Luke 6:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues.",
+    "reference": "Mark 3:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt.",
+    "reference": "Ezekiel 47:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the soldiers led him away into the hall, called Praetorium; and they call together the whole band.",
+    "reference": "Mark 15:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth.",
+    "reference": "Psalms 97:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,",
+    "reference": "Acts 14:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:",
+    "reference": "Exodus 16:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the name of the second river [is] Gihon: the same [is] it that compasseth the whole land of Ethiopia.",
+    "reference": "Genesis 2:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.",
+    "reference": "Matthew 10:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day?",
+    "reference": "Luke 14:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed [them].",
+    "reference": "Mark 6:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.",
+    "reference": "Matthew 6:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed.",
+    "reference": "Jeremiah 51:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he is the propitiation for our sins: and not for our's only, but also for [the sins of] the whole world.",
+    "reference": "1 John 2:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And I will cast you out of my sight, as I have cast out all your brethren, [even] the whole seed of Ephraim.",
+    "reference": "Jeremiah 7:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And the children of Israel, [even] the whole congregation, journeyed from Kadesh, and came unto mount Hor.",
+    "reference": "Numbers 20:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The whole number of the chief of the fathers of the mighty men of valour [were] two thousand and six hundred.",
+    "reference": "2 Chronicles 26:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the whole assembly took counsel to keep other seven days: and they kept [other] seven days with gladness.",
+    "reference": "2 Chronicles 30:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.",
+    "reference": "John 5:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.",
+    "reference": "Luke 7:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;",
+    "reference": "Daniel 6:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But when Jesus heard [that], he said unto them, They that be whole need not a physician, but they that are sick.",
+    "reference": "Matthew 9:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And blessed [be] his glorious name for ever: and let the whole earth be filled [with] his glory; Amen, and Amen.",
+    "reference": "Psalms 72:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The name of the first [is] Pison: that [is] it which compasseth the whole land of Havilah, where [there is] gold;",
+    "reference": "Genesis 2:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If the whole body [were] an eye, where [were] the hearing? If the whole [were] hearing, where [were] the smelling?",
+    "reference": "1 Corinthians 12:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!",
+    "reference": "Jeremiah 50:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 85
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus.",
+    "reference": "Acts 4:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately.",
+    "reference": "Acts 9:34",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in [that] place.",
+    "reference": "John 5:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when [there is] no peace.",
+    "reference": "Jeremiah 8:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the king turned his face, and blessed the whole congregation of Israel: and all the congregation of Israel stood.",
+    "reference": "2 Chronicles 6:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare [children].",
+    "reference": "Genesis 20:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.",
+    "reference": "Genesis 47:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But when Jesus knew [it], he withdrew himself from thence: and great multitudes followed him, and he healed them all;",
+    "reference": "Matthew 12:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick.",
+    "reference": "Matthew 14:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole.",
+    "reference": "Matthew 14:36",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.",
+    "reference": "Hosea 6:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.",
+    "reference": "Isaiah 1:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And straightway the fountain of her blood was dried up; and she felt in [her] body that she was healed of that plague.",
+    "reference": "Mark 5:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band [of soldiers].",
+    "reference": "Matthew 27:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.",
+    "reference": "Titus 1:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And one cried unto another, and said, Holy, holy, holy, [is] the LORD of hosts: the whole earth [is] full of his glory.",
+    "reference": "Isaiah 6:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They have healed also the hurt [of the daughter] of my people slightly, saying, Peace, peace; when [there is] no peace.",
+    "reference": "Jeremiah 6:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.",
+    "reference": "John 11:50",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this [is] the whole [duty] of man.",
+    "reference": "Ecclesiastes 12:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he cried, A lion: My lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights:",
+    "reference": "Isaiah 21:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.",
+    "reference": "Luke 7:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Praise ye the LORD. I will praise the LORD with [my] whole heart, in the assembly of the upright, and [in] the congregation.",
+    "reference": "Psalms 111:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When Jesus saw him lie, and knew that he had been now a long time [in that case], he saith unto him, Wilt thou be made whole?",
+    "reference": "John 5:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the waters prevailed exceedingly upon the earth; and all the high hills, that [were] under the whole heaven, were covered.",
+    "reference": "Genesis 7:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the LORD.",
+    "reference": "Jeremiah 3:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was.",
+    "reference": "Mark 6:55",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then saith he to the man, Stretch forth thine hand. And he stretched [it] forth; and it was restored whole, like as the other.",
+    "reference": "Matthew 12:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Beautiful for situation, the joy of the whole earth, [is] mount Zion, [on] the sides of the north, the city of the great King.",
+    "reference": "Psalms 48:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "This [is] the purpose that is purposed upon the whole earth: and this [is] the hand that is stretched out upon all the nations.",
+    "reference": "Isaiah 14:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,",
+    "reference": "Luke 8:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?",
+    "reference": "Proverbs 23:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.",
+    "reference": "Romans 16:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.",
+    "reference": "Ephesians 6:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Return, ye backsliding children, [and] I will heal your backslidings. Behold, we come unto thee; for thou [art] the LORD our God.",
+    "reference": "Jeremiah 3:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And this whole land shall be a desolation, [and] an astonishment; and these nations shall serve the king of Babylon seventy years.",
+    "reference": "Jeremiah 25:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou shalt build the altar of the LORD thy God of whole stones: and thou shalt offer burnt offerings thereon unto the LORD thy God:",
+    "reference": "Deuteronomy 27:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, [and] my curtains in a moment.",
+    "reference": "Jeremiah 4:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "How is Sheshach taken! and how is the praise of the whole earth surprised! how is Babylon become an astonishment among the nations!",
+    "reference": "Jeremiah 51:41",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him.",
+    "reference": "Luke 6:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,",
+    "reference": "Luke 8:43",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.",
+    "reference": "Revelation 13:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They come from a far country, from the end of heaven, [even] the LORD, and the weapons of his indignation, to destroy the whole land.",
+    "reference": "Isaiah 13:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I create the fruit of the lips; Peace, peace to [him that is] far off, and to [him that is] near, saith the LORD; and I will heal him.",
+    "reference": "Isaiah 57:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For in many things we offend all. If any man offend not in word, the same [is] a perfect man, [and] able also to bridle the whole body.",
+    "reference": "James 3:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yea, I will rejoice over them to do them good, and I will plant them in this land assuredly with my whole heart and with my whole soul.",
+    "reference": "Jeremiah 32:41",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And it came to pass, when they had done circumcising all the people, that they abode in their places in the camp, till they were whole.",
+    "reference": "Joshua 5:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.",
+    "reference": "Matthew 13:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?",
+    "reference": "Matthew 16:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "healing",
+        "weight": 80
+      }
+    ]
+  }
+]

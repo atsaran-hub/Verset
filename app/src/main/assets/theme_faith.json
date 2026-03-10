@@ -1,0 +1,5458 @@
+[
+  {
+    "type": "VERSE",
+    "text": "One Lord, one faith, one baptism,",
+    "reference": "Ephesians 4:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "(For we walk by faith, not by sight:)",
+    "reference": "2 Corinthians 5:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Jesus answered them, Do ye now believe?",
+    "reference": "John 16:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Of sin, because they believe not on me;",
+    "reference": "John 16:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And in his name shall the Gentiles trust.",
+    "reference": "Matthew 12:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For neither did his brethren believe in him.",
+    "reference": "John 7:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "What time I am afraid, I will trust in thee.",
+    "reference": "Psalms 56:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And such trust have we through Christ to God-ward:",
+    "reference": "2 Corinthians 3:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Preserve me, O God: for in thee do I put my trust.",
+    "reference": "Psalms 16:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If I do not the works of my Father, believe me not.",
+    "reference": "John 10:37",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said, Lord, I believe. And he worshipped him.",
+    "reference": "John 9:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Holding the mystery of the faith in a pure conscience.",
+    "reference": "1 Timothy 3:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Behold, ye trust in lying words, that cannot profit.",
+    "reference": "Jeremiah 7:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And because I tell [you] the truth, ye believe me not.",
+    "reference": "John 8:45",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yet in this thing ye did not believe the LORD your God,",
+    "reference": "Deuteronomy 1:32",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jesus answering saith unto them, Have faith in God.",
+    "reference": "Mark 11:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the apostles said unto the Lord, Increase our faith.",
+    "reference": "Luke 17:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I trusted in thee, O LORD: I said, Thou [art] my God.",
+    "reference": "Psalms 31:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I trust that ye shall know that we are not reprobates.",
+    "reference": "2 Corinthians 13:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Even so faith, if it hath not works, is dead, being alone.",
+    "reference": "James 2:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For ye are all the children of God by faith in Christ Jesus.",
+    "reference": "Galatians 3:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O LORD of hosts, blessed [is] the man that trusteth in thee.",
+    "reference": "Psalms 84:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I trust in the Lord that I also myself shall come shortly.",
+    "reference": "Philippians 2:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Having damnation, because they have cast off their first faith.",
+    "reference": "1 Timothy 5:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Knowing [this], that the trying of your faith worketh patience.",
+    "reference": "James 1:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For I will not trust in my bow, neither shall my sword save me.",
+    "reference": "Psalms 44:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By faith Isaac blessed Jacob and Esau concerning things to come.",
+    "reference": "Hebrews 11:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I said unto you, That ye also have seen me, and believe not.",
+    "reference": "John 6:36",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So then they which be of faith are blessed with faithful Abraham.",
+    "reference": "Galatians 3:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But wilt thou know, O vain man, that faith without works is dead?",
+    "reference": "James 2:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore they could not believe, because that Esaias said again,",
+    "reference": "John 12:39",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said to the woman, Thy faith hath saved thee; go in peace.",
+    "reference": "Luke 7:50",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But if ye believe not his writings, how shall ye believe my words?",
+    "reference": "John 5:47",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[It is] better to trust in the LORD than to put confidence in man.",
+    "reference": "Psalms 118:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So then faith [cometh] by hearing, and hearing by the word of God.",
+    "reference": "Romans 10:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He answered and said, Who is he, Lord, that I might believe on him?",
+    "reference": "John 9:36",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Because they believed not in God, and trusted not in his salvation:",
+    "reference": "Psalms 78:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But after that faith is come, we are no longer under a schoolmaster.",
+    "reference": "Galatians 3:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If we believe not, [yet] he abideth faithful: he cannot deny himself.",
+    "reference": "2 Timothy 2:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "In thee, O LORD, do I put my trust: let me never be put to confusion.",
+    "reference": "Psalms 71:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Receiving the end of your faith, [even] the salvation of [your] souls.",
+    "reference": "1 Peter 1:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So that ye were ensamples to all that believe in Macedonia and Achaia.",
+    "reference": "1 Thessalonians 1:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let not your heart be troubled: ye believe in God, believe also in me.",
+    "reference": "John 14:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jesus said unto him, Receive thy sight: thy faith hath saved thee.",
+    "reference": "Luke 18:42",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O Israel, trust thou in the LORD: he [is] their help and their shield.",
+    "reference": "Psalms 115:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[It is] better to trust in the LORD than to put confidence in princes.",
+    "reference": "Psalms 118:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I have hated them that regard lying vanities: but I trust in the LORD.",
+    "reference": "Psalms 31:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Offer the sacrifices of righteousness, and put your trust in the LORD.",
+    "reference": "Psalms 4:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For thou [art] my hope, O Lord GOD: [thou art] my trust from my youth.",
+    "reference": "Psalms 71:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Whose hope shall be cut off, and whose trust [shall be] a spider's web.",
+    "reference": "Job 8:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But ye believe not, because ye are not of my sheep, as I said unto you.",
+    "reference": "John 10:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Our fathers trusted in thee: they trusted, and thou didst deliver them.",
+    "reference": "Psalms 22:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "In whom we have boldness and access with confidence by the faith of him.",
+    "reference": "Ephesians 3:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Ye see then how that by works a man is justified, and not by faith only.",
+    "reference": "James 2:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said unto him, Arise, go thy way: thy faith hath made thee whole.",
+    "reference": "Luke 17:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That whosoever believeth in him should not perish, but have eternal life.",
+    "reference": "John 3:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O house of Aaron, trust in the LORD: he [is] their help and their shield.",
+    "reference": "Psalms 115:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
+    "reference": "Psalms 13:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "In God have I put my trust: I will not be afraid what man can do unto me.",
+    "reference": "Psalms 56:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For the scripture saith, Whosoever believeth on him shall not be ashamed.",
+    "reference": "Romans 10:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That we should be to the praise of his glory, who first trusted in Christ.",
+    "reference": "Ephesians 1:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And if Christ be not raised, your faith [is] vain; ye are yet in your sins.",
+    "reference": "1 Corinthians 15:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And put no difference between us and them, purifying their hearts by faith.",
+    "reference": "Acts 15:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then touched he their eyes, saying, According to your faith be it unto you.",
+    "reference": "Matthew 9:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now if we be dead with Christ, we believe that we shall also live with him:",
+    "reference": "Romans 6:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he shall say, Where [are] their gods, [their] rock in whom they trusted,",
+    "reference": "Deuteronomy 32:37",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the law is not of faith: but, The man that doeth them shall live in them.",
+    "reference": "Galatians 3:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For our heart shall rejoice in him, because we have trusted in his holy name.",
+    "reference": "Psalms 33:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Him that is weak in the faith receive ye, [but] not to doubtful disputations.",
+    "reference": "Romans 14:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Behold, he put no trust in his servants; and his angels he charged with folly:",
+    "reference": "Job 4:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And whosoever liveth and believeth in me shall never die. Believest thou this?",
+    "reference": "John 11:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Verily, verily, I say unto you, He that believeth on me hath everlasting life.",
+    "reference": "John 6:47",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said unto them, Why are ye so fearful? how is it that ye have no faith?",
+    "reference": "Mark 4:40",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Ye that fear the LORD, trust in the LORD: he [is] their help and their shield.",
+    "reference": "Psalms 115:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That your faith should not stand in the wisdom of men, but in the power of God.",
+    "reference": "1 Corinthians 2:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I have fought a good fight, I have finished [my] course, I have kept the faith:",
+    "reference": "2 Timothy 4:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.",
+    "reference": "John 4:48",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.",
+    "reference": "Luke 5:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+    "reference": "Hebrews 11:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For as the body without the spirit is dead, so faith without works is dead also.",
+    "reference": "James 2:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They that make them are like unto them; [so is] every one that trusteth in them.",
+    "reference": "Psalms 115:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They that make them are like unto them: [so is] every one that trusteth in them.",
+    "reference": "Psalms 135:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Beareth all things, believeth all things, hopeth all things, endureth all things.",
+    "reference": "1 Corinthians 13:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And so were the churches established in the faith, and increased in number daily.",
+    "reference": "Acts 16:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Trust ye in the LORD for ever: for in the LORD JEHOVAH [is] everlasting strength:",
+    "reference": "Isaiah 26:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Seest thou how faith wrought with his works, and by works was faith made perfect?",
+    "reference": "James 2:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let not him that is deceived trust in vanity: for vanity shall be his recompence.",
+    "reference": "Job 15:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And we believe and are sure that thou art that Christ, the Son of the living God.",
+    "reference": "John 6:69",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The simple believeth every word: but the prudent [man] looketh well to his going.",
+    "reference": "Proverbs 14:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD.",
+    "reference": "Psalms 112:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Commit thy way unto the LORD; trust also in him; and he shall bring [it] to pass.",
+    "reference": "Psalms 37:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For Christ [is] the end of the law for righteousness to every one that believeth.",
+    "reference": "Romans 10:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For one believeth that he may eat all things: another, who is weak, eateth herbs.",
+    "reference": "Romans 14:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Which some professing have erred concerning the faith. Grace [be] with thee. Amen.",
+    "reference": "1 Timothy 6:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee.",
+    "reference": "Psalms 25:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Do we then make void the law through faith? God forbid: yea, we establish the law.",
+    "reference": "Romans 3:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And ye have not his word abiding in you: for whom he hath sent, him ye believe not.",
+    "reference": "John 5:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Put not your trust in princes, [nor] in the son of man, in whom [there is] no help.",
+    "reference": "Psalms 146:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By faith the walls of Jericho fell down, after they were compassed about seven days.",
+    "reference": "Hebrews 11:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?",
+    "reference": "John 8:46",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That thy trust may be in the LORD, I have made known to thee this day, even to thee.",
+    "reference": "Proverbs 22:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Every word of God [is] pure: he [is] a shield unto them that put their trust in him.",
+    "reference": "Proverbs 30:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+    "reference": "Proverbs 3:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore we conclude that a man is justified by faith without the deeds of the law.",
+    "reference": "Romans 3:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "According to the glorious gospel of the blessed God, which was committed to my trust.",
+    "reference": "1 Timothy 1:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Know ye therefore that they which are of faith, the same are the children of Abraham.",
+    "reference": "Galatians 3:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And these all, having obtained a good report through faith, received not the promise:",
+    "reference": "Hebrews 11:39",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then if any man shall say unto you, Lo, here [is] Christ, or there; believe [it] not.",
+    "reference": "Matthew 24:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "So shall I have wherewith to answer him that reproacheth me: for I trust in thy word.",
+    "reference": "Psalms 119:42",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "In the LORD put I my trust: how say ye to my soul, Flee [as] a bird to your mountain?",
+    "reference": "Psalms 11:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O taste and see that the LORD [is] good: blessed [is] the man [that] trusteth in him.",
+    "reference": "Psalms 34:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Stephen, full of faith and power, did great wonders and miracles among the people.",
+    "reference": "Acts 6:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.",
+    "reference": "Titus 2:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And for this cause God shall send them strong delusion, that they should believe a lie:",
+    "reference": "2 Thessalonians 2:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight.",
+    "reference": "Job 15:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wilt thou believe him, that he will bring home thy seed, and gather [it into] thy barn?",
+    "reference": "Job 39:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.",
+    "reference": "Psalms 25:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They that trust in their wealth, and boast themselves in the multitude of their riches;",
+    "reference": "Psalms 49:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will say of the LORD, [He is] my refuge and my fortress: my God; in him will I trust.",
+    "reference": "Psalms 91:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;",
+    "reference": "1 Corinthians 12:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And if Christ be not risen, then [is] our preaching vain, and your faith [is] also vain.",
+    "reference": "1 Corinthians 15:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?",
+    "reference": "1 John 5:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.",
+    "reference": "Acts 16:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:",
+    "reference": "Luke 22:67",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He that trusteth in his riches shall fall: but the righteous shall flourish as a branch.",
+    "reference": "Proverbs 11:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When he speaketh fair, believe him not: for [there are] seven abominations in his heart.",
+    "reference": "Proverbs 26:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.",
+    "reference": "Proverbs 29:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They cried unto thee, and were delivered: they trusted in thee, and were not confounded.",
+    "reference": "Psalms 22:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
+    "reference": "Psalms 61:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;",
+    "reference": "2 Peter 1:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He removeth away the speech of the trusty, and taketh away the understanding of the aged.",
+    "reference": "Job 12:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.",
+    "reference": "Job 13:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He believeth not that he shall return out of darkness, and he is waited for of the sword.",
+    "reference": "Job 15:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Preserve my soul; for I [am] holy: O thou my God, save thy servant that trusteth in thee.",
+    "reference": "Psalms 86:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:",
+    "reference": "Romans 5:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
+    "reference": "Titus 1:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And now abideth faith, hope, charity, these three; but the greatest of these [is] charity.",
+    "reference": "1 Corinthians 13:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,",
+    "reference": "Ephesians 3:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil.",
+    "reference": "Proverbs 31:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That is, that I may be comforted together with you by the mutual faith both of you and me.",
+    "reference": "Romans 1:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wilt thou trust him, because his strength [is] great? or wilt thou leave thy labour to him?",
+    "reference": "Job 39:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,",
+    "reference": "Jude 1:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And that we may be delivered from unreasonable and wicked men: for all [men] have not faith.",
+    "reference": "2 Thessalonians 3:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+    "reference": "Galatians 5:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly.",
+    "reference": "Hebrews 13:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble.",
+    "reference": "James 2:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Leave thy fatherless children, I will preserve [them] alive; and let thy widows trust in me.",
+    "reference": "Jeremiah 49:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now I tell you before it come, that, when it is come to pass, ye may believe that I am [he].",
+    "reference": "John 13:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned.",
+    "reference": "Mark 16:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Jesus said unto him, If thou canst believe, all things [are] possible to him that believeth.",
+    "reference": "Mark 9:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;",
+    "reference": "Philemon 1:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For what if some did not believe? shall their unbelief make the faith of God without effect?",
+    "reference": "Romans 3:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For by grace are ye saved through faith; and that not of yourselves: [it is] the gift of God:",
+    "reference": "Ephesians 2:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
+    "reference": "Proverbs 28:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.",
+    "reference": "Psalms 31:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.",
+    "reference": "1 Timothy 1:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?",
+    "reference": "2 Corinthians 6:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me.",
+    "reference": "Acts 27:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,",
+    "reference": "Ephesians 1:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;",
+    "reference": "Hebrews 11:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.",
+    "reference": "John 12:44",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I am come a light into the world, that whosoever believeth on me should not abide in darkness.",
+    "reference": "John 12:46",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Where [is] boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.",
+    "reference": "Romans 3:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.",
+    "reference": "Acts 15:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Peace [be] to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.",
+    "reference": "Ephesians 6:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Neither pray I for these alone, but for them also which shall believe on me through their word;",
+    "reference": "John 17:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.",
+    "reference": "Mark 2:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The LORD [is] good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
+    "reference": "Nahum 1:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Since we heard of your faith in Christ Jesus, and of the love [which ye have] to all the saints,",
+    "reference": "Colossians 1:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And now I have told you before it come to pass, that, when it is come to pass, ye might believe.",
+    "reference": "John 14:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:",
+    "reference": "Luke 24:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.",
+    "reference": "Luke 8:48",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy [is] he.",
+    "reference": "Proverbs 16:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But mine eyes [are] unto thee, O GOD the Lord: in thee is my trust; leave not my soul destitute.",
+    "reference": "Psalms 141:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Some [trust] in chariots, and some in horses: but we will remember the name of the LORD our God.",
+    "reference": "Psalms 20:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.",
+    "reference": "Psalms 21:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Trust in the LORD, and do good; [so] shalt thou dwell in the land, and verily thou shalt be fed.",
+    "reference": "Psalms 37:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.",
+    "reference": "1 Corinthians 16:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:",
+    "reference": "1 Thessalonians 3:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.",
+    "reference": "2 Corinthians 1:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Behold, his soul [which] is lifted up is not upright in him: but the just shall live by his faith.",
+    "reference": "Habakkuk 2:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.",
+    "reference": "Matthew 27:43",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
+    "reference": "Psalms 34:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:",
+    "reference": "Psalms 7:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That ye be not slothful, but followers of them who through faith and patience inherit the promises.",
+    "reference": "Hebrews 6:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.",
+    "reference": "1 Peter 1:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now the just shall live by faith: but if [any man] draw back, my soul shall have no pleasure in him.",
+    "reference": "Hebrews 10:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And again, I will put my trust in him. And again, Behold I and the children which God hath given me.",
+    "reference": "Hebrews 2:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The same came for a witness, to bear witness of the Light, that all [men] through him might believe.",
+    "reference": "John 1:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He trusted on the LORD [that] he would deliver him: let him deliver him, seeing he delighted in him.",
+    "reference": "Psalms 22:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thus saith Sennacherib king of Assyria, Whereon do ye trust, that ye abide in the siege in Jerusalem?",
+    "reference": "2 Chronicles 32:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent.",
+    "reference": "John 6:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And then if any man shall say to you, Lo, here [is] Christ; or, lo, [he is] there; believe [him] not:",
+    "reference": "Mark 13:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
+    "reference": "Psalms 56:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For if they which are of the law [be] heirs, faith is made void, and the promise made of none effect:",
+    "reference": "Romans 4:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:",
+    "reference": "1 Timothy 1:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore the law was our schoolmaster [to bring us] unto Christ, that we might be justified by faith.",
+    "reference": "Galatians 3:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let us hold fast the profession of [our] faith without wavering; (for he [is] faithful that promised;)",
+    "reference": "Hebrews 10:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.",
+    "reference": "Philemon 1:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I [am] like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.",
+    "reference": "Psalms 52:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;",
+    "reference": "Romans 4:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "All that are with me salute thee. Greet them that love us in the faith. Grace [be] with you all. Amen.",
+    "reference": "Titus 3:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,",
+    "reference": "Acts 14:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "My brethren, have not the faith of our Lord Jesus Christ, [the Lord] of glory, with respect of persons.",
+    "reference": "James 2:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If I had called, and he had answered me; [yet] would I not believe that he had hearkened unto my voice.",
+    "reference": "Job 9:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.",
+    "reference": "Philippians 2:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Many sorrows [shall be] to the wicked: but he that trusteth in the LORD, mercy shall compass him about.",
+    "reference": "Psalms 32:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,",
+    "reference": "2 Timothy 3:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord.",
+    "reference": "Acts 11:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.",
+    "reference": "Hebrews 10:39",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Believe me that I [am] in the Father, and the Father in me: or else believe me for the very works' sake.",
+    "reference": "John 14:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.",
+    "reference": "John 7:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
+    "reference": "Mark 1:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.",
+    "reference": "Mark 5:34",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They that trust in the LORD [shall be] as mount Zion, [which] cannot be removed, [but] abideth for ever.",
+    "reference": "Psalms 125:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Trust in him at all times; [ye] people, pour out your heart before him: God [is] a refuge for us. Selah.",
+    "reference": "Psalms 62:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:",
+    "reference": "Romans 11:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Seeing [it is] one God, which shall justify the circumcision by faith, and uncircumcision through faith.",
+    "reference": "Romans 3:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver [us];",
+    "reference": "2 Corinthians 1:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Although thou sayest thou shalt not see him, [yet] judgment [is] before him; therefore trust thou in him.",
+    "reference": "Job 35:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Behold, he drinketh up a river, [and] hasteth not: he trusteth that he can draw up Jordan into his mouth.",
+    "reference": "Job 40:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,",
+    "reference": "Hebrews 11:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.",
+    "reference": "Luke 22:32",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "DIRECT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.",
+    "reference": "Psalms 64:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.",
+    "reference": "Romans 10:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.",
+    "reference": "2 Timothy 1:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?",
+    "reference": "Galatians 3:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By faith they passed through the Red sea as by dry [land]: which the Egyptians assaying to do were drowned.",
+    "reference": "Hebrews 11:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "What [doth it] profit, my brethren, though a man say he hath faith, and have not works? can faith save him?",
+    "reference": "James 2:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:",
+    "reference": "Romans 1:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.",
+    "reference": "Proverbs 28:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart [upon them].",
+    "reference": "Psalms 62:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.",
+    "reference": "Hebrews 11:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt [your] confusion.",
+    "reference": "Isaiah 30:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "How can ye believe, which receive honour one of another, and seek not the honour that [cometh] from God only?",
+    "reference": "John 5:44",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.",
+    "reference": "Ephesians 6:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.",
+    "reference": "Galatians 3:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He swalloweth the ground with fierceness and rage: neither believeth he that [it is] the sound of the trumpet.",
+    "reference": "Job 39:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;",
+    "reference": "Philippians 1:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Here is the patience of the saints: here [are] they that keep the commandments of God, and the faith of Jesus.",
+    "reference": "Revelation 14:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.",
+    "reference": "Hebrews 11:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;",
+    "reference": "Romans 4:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.",
+    "reference": "Romans 5:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But that no man is justified by the law in the sight of God, [it is] evident: for, The just shall live by faith.",
+    "reference": "Galatians 3:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?",
+    "reference": "John 11:40",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you [of] heavenly things?",
+    "reference": "John 3:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.",
+    "reference": "Psalms 9:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.",
+    "reference": "Romans 1:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.",
+    "reference": "1 Thessalonians 4:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
+    "reference": "Galatians 5:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.",
+    "reference": "John 11:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:",
+    "reference": "Luke 18:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.",
+    "reference": "Mark 9:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God.",
+    "reference": "Zephaniah 3:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Unto Timothy, [my] own son in the faith: Grace, mercy, [and] peace, from God our Father and Jesus Christ our Lord.",
+    "reference": "1 Timothy 1:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?",
+    "reference": "John 6:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true [riches]?",
+    "reference": "Luke 16:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up [his] heel against me.",
+    "reference": "Psalms 41:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the LORD.",
+    "reference": "Zephaniah 3:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.",
+    "reference": "2 Timothy 2:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.",
+    "reference": "Acts 20:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.",
+    "reference": "Galatians 1:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he that saw [it] bare record, and his record is true: and he knoweth that he saith true, that ye might believe.",
+    "reference": "John 19:35",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Blessed [is] that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies.",
+    "reference": "Psalms 40:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But [it is] good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works.",
+    "reference": "Psalms 73:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now the end of the commandment is charity out of a pure heart, and [of] a good conscience, and [of] faith unfeigned:",
+    "reference": "1 Timothy 1:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.",
+    "reference": "Acts 13:39",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.",
+    "reference": "John 11:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Do not think that I will accuse you to the Father: there is [one] that accuseth you, [even] Moses, in whom ye trust.",
+    "reference": "John 5:45",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him.",
+    "reference": "Psalms 18:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he that doubteth is damned if he eat, because [he eateth] not of faith: for whatsoever [is] not of faith is sin.",
+    "reference": "Romans 14:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?",
+    "reference": "1 Thessalonians 3:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.",
+    "reference": "1 Timothy 2:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[As for] God, his way [is] perfect; the word of the LORD [is] tried: he [is] a buckler to all them that trust in him.",
+    "reference": "2 Samuel 22:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.",
+    "reference": "Colossians 2:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.",
+    "reference": "Romans 1:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him.",
+    "reference": "1 Corinthians 7:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Ye [are] witnesses, and God [also], how holily and justly and unblameably we behaved ourselves among you that believe:",
+    "reference": "1 Thessalonians 2:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.",
+    "reference": "1 Timothy 6:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But as many as received him, to them gave he power to become the sons of God, [even] to them that believe on his name:",
+    "reference": "John 1:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him?",
+    "reference": "Mark 11:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;",
+    "reference": "Philippians 1:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; [therefore] I shall not slide.",
+    "reference": "Psalms 26:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.",
+    "reference": "Romans 4:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.",
+    "reference": "Acts 10:43",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, [even] our faith.",
+    "reference": "1 John 5:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:",
+    "reference": "2 Corinthians 1:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And what [is] the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,",
+    "reference": "Ephesians 1:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "As we have therefore opportunity, let us do good unto all [men], especially unto them who are of the household of faith.",
+    "reference": "Galatians 6:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.",
+    "reference": "Hebrews 11:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?",
+    "reference": "Luke 18:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.",
+    "reference": "1 Corinthians 11:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day.",
+    "reference": "1 Timothy 5:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Trust ye not in lying words, saying, The temple of the LORD, The temple of the LORD, The temple of the LORD, [are] these.",
+    "reference": "Jeremiah 7:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.",
+    "reference": "John 12:47",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?",
+    "reference": "John 9:35",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;",
+    "reference": "Mark 16:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth [shall be thy] shield and buckler.",
+    "reference": "Psalms 91:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, [leaning] upon the top of his staff.",
+    "reference": "Hebrews 11:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:",
+    "reference": "John 11:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "How excellent [is] thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
+    "reference": "Psalms 36:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
+    "reference": "James 1:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If we let him thus alone, all [men] will believe on him: and the Romans shall come and take away both our place and nation.",
+    "reference": "John 11:48",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am [he], ye shall die in your sins.",
+    "reference": "John 8:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom.",
+    "reference": "Micah 7:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;",
+    "reference": "2 Corinthians 1:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hast thou faith? have [it] to thyself before God. Happy [is] he that condemneth not himself in that thing which he alloweth.",
+    "reference": "Romans 14:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.",
+    "reference": "1 Peter 1:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.",
+    "reference": "1 Peter 5:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.",
+    "reference": "Philippians 2:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But what saith it? The word is nigh thee, [even] in thy mouth, and in thy heart: that is, the word of faith, which we preach;",
+    "reference": "Romans 10:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith.",
+    "reference": "Acts 13:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.",
+    "reference": "Galatians 3:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "To declare, [I say], at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.",
+    "reference": "Romans 3:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But if all prophesy, and there come in one that believeth not, or [one] unlearned, he is convinced of all, he is judged of all:",
+    "reference": "1 Corinthians 14:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.",
+    "reference": "2 Timothy 2:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive [them], and ye shall have [them].",
+    "reference": "Mark 11:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he hath put a new song in my mouth, [even] praise unto our God: many shall see [it], and fear, and shall trust in the LORD.",
+    "reference": "Psalms 40:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten [son],",
+    "reference": "Hebrews 11:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.",
+    "reference": "Psalms 37:40",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.",
+    "reference": "1 Thessalonians 5:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "This [is] thy lot, the portion of thy measures from me, saith the LORD; because thou hast forgotten me, and trusted in falsehood.",
+    "reference": "Jeremiah 13:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last [to be] more than the first.",
+    "reference": "Revelation 2:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.",
+    "reference": "Hebrews 11:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father [is] in me, and I in him.",
+    "reference": "John 10:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.",
+    "reference": "Philemon 1:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.",
+    "reference": "Romans 9:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.",
+    "reference": "Ruth 2:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.",
+    "reference": "2 Timothy 3:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Thus saith the LORD; Cursed [be] the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD.",
+    "reference": "Jeremiah 17:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 80
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore? Because [they sought it] not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;",
+    "reference": "Romans 9:32",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.",
+    "reference": "Matthew 27:42",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and [he] in whom I trust; who subdueth my people under me.",
+    "reference": "Psalms 144:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: [so do].",
+    "reference": "1 Timothy 1:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.",
+    "reference": "1 Timothy 5:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:",
+    "reference": "Philippians 3:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness, and stay thereon:",
+    "reference": "Isaiah 30:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.",
+    "reference": "James 2:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Even the righteousness of God [which is] by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:",
+    "reference": "Romans 3:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "To Titus, [mine] own son after the common faith: Grace, mercy, [and] peace, from God the Father and the Lord Jesus Christ our Saviour.",
+    "reference": "Titus 1:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He trusted in the LORD God of Israel; so that after him was none like him among all the kings of Judah, nor [any] that were before him.",
+    "reference": "2 Kings 18:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "faith",
+        "weight": 100
+      }
+    ]
+  }
+]

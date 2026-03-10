@@ -1,0 +1,3106 @@
+[
+  {
+    "type": "VERSE",
+    "text": "Pray without ceasing.",
+    "reference": "1 Thessalonians 5:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Brethren, pray for us.",
+    "reference": "1 Thessalonians 5:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hear my cry, O God; attend unto my prayer.",
+    "reference": "Psalms 61:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "A prayer of Habakkuk the prophet upon Shigionoth.",
+    "reference": "Habakkuk 3:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And pray ye that your flight be not in the winter.",
+    "reference": "Mark 13:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For it is sanctified by the word of God and prayer.",
+    "reference": "1 Timothy 4:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And said, I pray you, brethren, do not so wickedly.",
+    "reference": "Genesis 19:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Also when I cry and shout, he shutteth out my prayer.",
+    "reference": "Lamentations 3:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hear my prayer, O LORD, and let my cry come unto thee.",
+    "reference": "Psalms 102:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they began to pray him to depart out of their coasts.",
+    "reference": "Mark 5:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+    "reference": "Psalms 54:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Howbeit this kind goeth not out but by prayer and fasting.",
+    "reference": "Matthew 17:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O thou that hearest prayer, unto thee shall all flesh come.",
+    "reference": "Psalms 65:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Continue in prayer, and watch in the same with thanksgiving;",
+    "reference": "Colossians 4:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Moses said unto Korah, Hear, I pray you, ye sons of Levi:",
+    "reference": "Numbers 16:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yea, thou castest off fear, and restrainest prayer before God.",
+    "reference": "Job 15:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let my prayer come before thee: incline thine ear unto my cry;",
+    "reference": "Psalms 88:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Take ye heed, watch and pray: for ye know not when the time is.",
+    "reference": "Mark 13:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I cried to thee, O LORD; and unto the LORD I made supplication.",
+    "reference": "Psalms 30:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Not for [any] injustice in mine hands: also my prayer [is] pure.",
+    "reference": "Job 16:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Offer unto God thanksgiving; and pay thy vows unto the most High:",
+    "reference": "Psalms 50:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Always in every prayer of mine for you all making request with joy,",
+    "reference": "Philippians 1:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+    "reference": "Psalms 122:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when he had sent them away, he departed into a mountain to pray.",
+    "reference": "Mark 6:46",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For my love they are my adversaries: but I [give myself unto] prayer.",
+    "reference": "Psalms 109:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The LORD hath heard my supplication; the LORD will receive my prayer.",
+    "reference": "Psalms 6:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.",
+    "reference": "Psalms 84:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then said the LORD unto me, Pray not for this people for [their] good.",
+    "reference": "Jeremiah 14:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Judge in yourselves: is it comely that a woman pray unto God uncovered?",
+    "reference": "1 Corinthians 11:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Saul's uncle said, Tell me, I pray thee, what Samuel said unto you.",
+    "reference": "1 Samuel 10:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let my supplication come before thee: deliver me according to thy word.",
+    "reference": "Psalms 119:170",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Bless them that curse you, and pray for them which despitefully use you.",
+    "reference": "Luke 6:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Give ear to my prayer, O God; and hide not thyself from my supplication.",
+    "reference": "Psalms 55:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
+    "reference": "Romans 12:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said unto them, Hear, I pray you, this dream which I have dreamed:",
+    "reference": "Genesis 37:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He will regard the prayer of the destitute, and not despise their prayer.",
+    "reference": "Psalms 102:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.",
+    "reference": "Job 33:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Is any among you afflicted? let him pray. Is any merry? let him sing psalms.",
+    "reference": "James 5:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
+    "reference": "Psalms 64:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When he shall be judged, let him be condemned: and let his prayer become sin.",
+    "reference": "Psalms 109:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:",
+    "reference": "Psalms 147:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "[But] verily God hath heard [me]; he hath attended to the voice of my prayer.",
+    "reference": "Psalms 66:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But pray ye that your flight be not in the winter, neither on the sabbath day:",
+    "reference": "Matthew 24:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The LORD [is] far from the wicked: but he heareth the prayer of the righteous.",
+    "reference": "Proverbs 15:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Blessed [be] God, which hath not turned away my prayer, nor his mercy from me.",
+    "reference": "Psalms 66:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Give ear, O LORD, unto my prayer; and attend to the voice of my supplications.",
+    "reference": "Psalms 86:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.",
+    "reference": "Luke 22:46",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.",
+    "reference": "Matthew 21:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
+    "reference": "Psalms 5:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore let him that speaketh in an [unknown] tongue pray that he may interpret.",
+    "reference": "1 Corinthians 14:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But we will give ourselves continually to prayer, and to the ministry of the word.",
+    "reference": "Acts 6:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.",
+    "reference": "Job 22:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;",
+    "reference": "Job 8:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou hast covered thyself with a cloud, that [our] prayer should not pass through.",
+    "reference": "Lamentations 3:44",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will praise the name of God with a song, and will magnify him with thanksgiving.",
+    "reference": "Psalms 69:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "O LORD God of hosts, how long wilt thou be angry against the prayer of thy people?",
+    "reference": "Psalms 80:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.",
+    "reference": "1 Peter 4:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the LORD.",
+    "reference": "1 Samuel 7:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said, O my Lord, send, I pray thee, by the hand [of him whom] thou wilt send.",
+    "reference": "Exodus 4:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But unto thee have I cried, O LORD; and in the morning shall my prayer prevent thee.",
+    "reference": "Psalms 88:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said, I seek my brethren: tell me, I pray thee, where they feed [their flocks].",
+    "reference": "Genesis 37:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican.",
+    "reference": "Luke 18:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said unto them, This kind can come forth by nothing, but by prayer and fasting.",
+    "reference": "Mark 9:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
+    "reference": "Psalms 26:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Brethren, my heart's desire and prayer to God for Israel is, that they might be saved.",
+    "reference": "Romans 10:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then hear thou in heaven their prayer and their supplication, and maintain their cause.",
+    "reference": "1 Kings 8:45",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.",
+    "reference": "Psalms 50:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And by their prayer for you, which long after you for the exceeding grace of God in you.",
+    "reference": "2 Corinthians 9:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when he was at the place, he said unto them, Pray that ye enter not into temptation.",
+    "reference": "Luke 22:40",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.",
+    "reference": "Job 22:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then these men assembled, and found Daniel praying and making supplication before his God.",
+    "reference": "Daniel 6:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.",
+    "reference": "Matthew 6:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He that turneth away his ear from hearing the law, even his prayer [shall be] abomination.",
+    "reference": "Proverbs 28:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.",
+    "reference": "Psalms 55:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Return, I pray you, let it not be iniquity; yea, return again, my righteousness [is] in it.",
+    "reference": "Job 6:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For if I pray in an [unknown] tongue, my spirit prayeth, but my understanding is unfruitful.",
+    "reference": "1 Corinthians 14:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go.",
+    "reference": "2 Kings 6:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly.",
+    "reference": "Hebrews 13:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "HOPEFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.",
+    "reference": "Jeremiah 29:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.",
+    "reference": "Psalms 107:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the LORD.",
+    "reference": "Psalms 116:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.",
+    "reference": "Psalms 142:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.",
+    "reference": "1 Timothy 2:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then hear thou from the heavens their prayer and their supplication, and maintain their cause.",
+    "reference": "2 Chronicles 6:35",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when ye will offer a sacrifice of thanksgiving unto the LORD, offer [it] at your own will.",
+    "reference": "Leviticus 22:29",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:",
+    "reference": "Luke 16:27",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.",
+    "reference": "Matthew 9:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the LORD.",
+    "reference": "1 Samuel 15:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now mine eyes shall be open, and mine ears attent unto the prayer [that is made] in this place.",
+    "reference": "2 Chronicles 7:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Neither pray I for these alone, but for them also which shall believe on me through their word;",
+    "reference": "John 17:20",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let me not, I pray you, accept any man's person, neither let me give flattering titles unto man.",
+    "reference": "Job 32:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Remember, I pray thee, who [ever] perished, being innocent? or where were the righteous cut off?",
+    "reference": "Job 4:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:",
+    "reference": "Job 8:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he spake a parable unto them [to this end], that men ought always to pray, and not to faint;",
+    "reference": "Luke 18:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And this I pray, that your love may abound yet more and more in knowledge and [in] all judgment;",
+    "reference": "Philippians 1:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.",
+    "reference": "Psalms 95:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.",
+    "reference": "2 Corinthians 9:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:",
+    "reference": "John 16:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,",
+    "reference": "Luke 22:45",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.",
+    "reference": "Psalms 119:76",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the LORD to day.",
+    "reference": "1 Kings 22:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:",
+    "reference": "Genesis 18:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For every creature of God [is] good, and nothing to be refused, if it be received with thanksgiving:",
+    "reference": "1 Timothy 4:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.",
+    "reference": "Acts 10:31",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now Peter and John went up together into the temple at the hour of prayer, [being] the ninth [hour].",
+    "reference": "Acts 3:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher.",
+    "reference": "Genesis 24:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the LORD to day.",
+    "reference": "2 Chronicles 18:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard.",
+    "reference": "Isaiah 5:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Whom, though I were righteous, [yet] would I not answer, [but] I would make supplication to my judge.",
+    "reference": "Job 9:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.",
+    "reference": "John 17:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "What [is] the Almighty, that we should serve him? and what profit should we have, if we pray unto him?",
+    "reference": "Job 21:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer's house [is].",
+    "reference": "1 Samuel 9:18",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.",
+    "reference": "Acts 12:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.",
+    "reference": "Luke 14:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.",
+    "reference": "Luke 19:46",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Watch ye and pray, lest ye enter into temptation. The spirit truly [is] ready, but the flesh [is] weak.",
+    "reference": "Mark 14:38",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "LORD, in trouble have they visited thee, they poured out a prayer [when] thy chastening [was] upon them.",
+    "reference": "Isaiah 26:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean [thing]:",
+    "reference": "Judges 13:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And said, My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy servant:",
+    "reference": "Genesis 18:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;",
+    "reference": "John 14:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then hear thou their prayer and their supplication in heaven thy dwelling place, and maintain their cause,",
+    "reference": "1 Kings 8:49",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them.",
+    "reference": "Nehemiah 4:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+    "reference": "Proverbs 1:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, [that goeth] not out of feigned lips.",
+    "reference": "Psalms 17:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.",
+    "reference": "John 17:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Watch and pray, that ye enter not into temptation: the spirit indeed [is] willing, but the flesh [is] weak.",
+    "reference": "Matthew 26:41",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When they had sent unto the house of God Sherezer and Regem-melech, and their men, to pray before the LORD,",
+    "reference": "Zechariah 7:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "The sacrifice of the wicked [is] an abomination to the LORD: but the prayer of the upright [is] his delight.",
+    "reference": "Proverbs 15:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight.",
+    "reference": "1 Samuel 16:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I pray thee, let me go over, and see the good land that [is] beyond Jordan, that goodly mountain, and Lebanon.",
+    "reference": "Deuteronomy 3:25",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.",
+    "reference": "Jonah 2:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now therefore, I pray you, tarry ye also here this night, that I may know what the LORD will say unto me more.",
+    "reference": "Numbers 22:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, [and] in thy righteousness.",
+    "reference": "Psalms 143:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Let my prayer be set forth before thee [as] incense; [and] the lifting up of my hands [as] the evening sacrifice.",
+    "reference": "Psalms 141:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then the woman said, Let thine handmaid, I pray thee, speak [one] word unto my lord the king. And he said, Say on.",
+    "reference": "2 Samuel 14:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Repent therefore of this thy wickedness, and pray God, if perhaps the thought of thine heart may be forgiven thee.",
+    "reference": "Acts 8:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,",
+    "reference": "Philippians 1:19",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He shall call upon me, and I will answer him: I [will be] with him in trouble; I will deliver him, and honour him.",
+    "reference": "Psalms 91:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:",
+    "reference": "Daniel 9:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yea, many people and strong nations shall come to seek the LORD of hosts in Jerusalem, and to pray before the LORD.",
+    "reference": "Zechariah 8:22",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And said, Whose daughter [art] thou? tell me, I pray thee: is there room [in] thy father's house for us to lodge in?",
+    "reference": "Genesis 24:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray.",
+    "reference": "Mark 14:32",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.",
+    "reference": "Colossians 2:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Yet now, if thou wilt forgive their sin--; and if not, blot me, I pray thee, out of thy book which thou hast written.",
+    "reference": "Exodus 32:32",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.",
+    "reference": "Isaiah 29:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?",
+    "reference": "Matthew 26:53",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father.",
+    "reference": "1 Kings 8:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God.",
+    "reference": "Luke 6:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.",
+    "reference": "Matthew 21:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Enter into his gates with thanksgiving, [and] into his courts with praise: be thankful unto him, [and] bless his name.",
+    "reference": "Psalms 100:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct [my prayer] unto thee, and will look up.",
+    "reference": "Psalms 5:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And as she was going to fetch [it], he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand.",
+    "reference": "1 Kings 17:11",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded [him].",
+    "reference": "1 Kings 20:37",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.",
+    "reference": "Acts 8:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "At my first answer no man stood with me, but all [men] forsook me: [I pray God] that it may not be laid to their charge.",
+    "reference": "2 Timothy 4:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Say, I pray thee, thou [art] my sister: that it may be well with me for thy sake; and my soul shall live because of thee.",
+    "reference": "Genesis 12:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And said unto them, Thus saith the LORD, the God of Israel, unto whom ye sent me to present your supplication before him;",
+    "reference": "Jeremiah 42:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me [some] venison;",
+    "reference": "Genesis 27:3",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man?",
+    "reference": "Acts 8:34",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.",
+    "reference": "Ezra 6:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou [be] my very son Esau or not.",
+    "reference": "Genesis 27:21",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For in the days of David and Asaph of old [there were] chief of the singers, and songs of praise and thanksgiving unto God.",
+    "reference": "Nehemiah 12:46",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "JOYFUL",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife.",
+    "reference": "Genesis 34:8",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the LORD:",
+    "reference": "Haggai 2:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And they said unto him, Ask counsel, we pray thee, of God, that we may know whether our way which we go shall be prosperous.",
+    "reference": "Judges 18:5",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; [Is it] not for you to know judgment?",
+    "reference": "Micah 3:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "I likewise, [and] my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury.",
+    "reference": "Nehemiah 5:10",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Finally, brethren, pray for us, that the word of the Lord may have [free] course, and be glorified, even as [it is] with you:",
+    "reference": "2 Thessalonians 3:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Notwithstanding, that I be not further tedious unto thee, I pray thee that thou wouldest hear us of thy clemency a few words.",
+    "reference": "Acts 24:4",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And Manoah said unto the angel of the LORD, I pray thee, let us detain thee, until we shall have made ready a kid for thee.",
+    "reference": "Judges 13:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Besides the cakes, he shall offer [for] his offering leavened bread with the sacrifice of thanksgiving of his peace offerings.",
+    "reference": "Leviticus 7:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay [that] that I have vowed. Salvation [is] of the LORD.",
+    "reference": "Jonah 2:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive [them], and ye shall have [them].",
+    "reference": "Mark 11:24",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "For all things [are] for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.",
+    "reference": "2 Corinthians 4:15",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Then said Absalom, If not, I pray thee, let my brother Amnon go with us. And the king said unto him, Why should he go with thee?",
+    "reference": "2 Samuel 13:26",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab, Come near hither, that I may speak with thee.",
+    "reference": "2 Samuel 20:16",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham.",
+    "reference": "Genesis 24:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Esau said to Jacob, Feed me, I pray thee, with that same red [pottage]; for I [am] faint: therefore was his name called Edom.",
+    "reference": "Genesis 25:30",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "But when ye pray, use not vain repetitions, as the heathen [do]: for they think that they shall be heard for their much speaking.",
+    "reference": "Matthew 6:7",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+    "reference": "Philippians 4:6",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now therefore come, let me, I pray thee, give thee counsel, that thou mayest save thine own life, and the life of thy son Solomon.",
+    "reference": "1 Kings 1:12",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:",
+    "reference": "Genesis 24:2",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "He said unto me again, Stand, I pray thee, upon me, and slay me: for anguish is come upon me, because my life [is] yet whole in me.",
+    "reference": "2 Samuel 1:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now therefore, I pray thee, let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.",
+    "reference": "Genesis 44:33",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Now, my God, let, I beseech thee, thine eyes be open, and [let] thine ears [be] attent unto the prayer [that is made] in this place.",
+    "reference": "2 Chronicles 6:40",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.",
+    "reference": "Acts 1:14",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Wherefore I pray you to take [some] meat: for this is for your health: for there shall not an hair fall from the head of any of you.",
+    "reference": "Acts 27:34",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder.",
+    "reference": "Matthew 26:36",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.",
+    "reference": "Luke 9:28",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "# Then were there brought unto him little children, that he should put [his] hands on them, and pray: and the disciples rebuked them.",
+    "reference": "Matthew 19:13",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.",
+    "reference": "Matthew 14:23",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "And he said, Speak, I pray thee, unto Solomon the king, (for he will not say thee nay,) that he give me Abishag the Shunammite to wife.",
+    "reference": "1 Kings 2:17",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hear this, I pray you, ye heads of the house of Jacob, and princes of the house of Israel, that abhor judgment, and pervert all equity.",
+    "reference": "Micah 3:9",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 95
+      }
+    ]
+  },
+  {
+    "type": "VERSE",
+    "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me [when I was] in distress; have mercy upon me, and hear my prayer.",
+    "reference": "Psalms 4:1",
+    "language": "en",
+    "tradition": "ALL",
+    "tone": "SOFT",
+    "source": "KJV",
+    "isPremium": false,
+    "tags": [
+      {
+        "key": "prayer",
+        "weight": 100
+      }
+    ]
+  }
+]

@@ -26,5 +26,359 @@
       { "key": "encouragement", "weight": 100 },
       { "key": "hope", "weight": 70 }
     ]
-  }
+  },
+  [
+    {
+      "type": "VERSE",
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "reference": "Matthew 11:28",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "comfort", "weight": 100 },
+        { "key": "peace", "weight": 90 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you.",
+      "reference": "John 14:27",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "peace", "weight": 100 },
+        { "key": "comfort", "weight": 75 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "God is our refuge and strength, a very present help in trouble.",
+      "reference": "Psalm 46:1",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "DIRECT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "strength", "weight": 100 },
+        { "key": "comfort", "weight": 85 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.",
+      "reference": "Joshua 1:9",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "DIRECT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "strength", "weight": 100 },
+        { "key": "encouragement", "weight": 95 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "reference": "Proverbs 3:5",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "DIRECT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "faith", "weight": 100 },
+        { "key": "guidance", "weight": 85 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "In all thy ways acknowledge him, and he shall direct thy paths.",
+      "reference": "Proverbs 3:6",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "DIRECT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "guidance", "weight": 100 },
+        { "key": "faith", "weight": 80 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "And we know that all things work together for good to them that love God.",
+      "reference": "Romans 8:28",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "HOPEFUL",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "hope", "weight": 100 },
+        { "key": "faith", "weight": 85 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "The eternal God is thy refuge, and underneath are the everlasting arms.",
+      "reference": "Deuteronomy 33:27",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "comfort", "weight": 100 },
+        { "key": "peace", "weight": 80 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Casting all your care upon him; for he careth for you.",
+      "reference": "1 Peter 5:7",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "comfort", "weight": 100 },
+        { "key": "peace", "weight": 85 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+      "reference": "Philippians 4:6",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "DIRECT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "peace", "weight": 90 },
+        { "key": "faith", "weight": 85 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.",
+      "reference": "Philippians 4:7",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "peace", "weight": 100 },
+        { "key": "comfort", "weight": 80 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Wait on the Lord: be of good courage, and he shall strengthen thine heart.",
+      "reference": "Psalm 27:14",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "DIRECT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "encouragement", "weight": 100 },
+        { "key": "strength", "weight": 90 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "The name of the Lord is a strong tower: the righteous runneth into it, and is safe.",
+      "reference": "Proverbs 18:10",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "DIRECT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "protection", "weight": 100 },
+        { "key": "strength", "weight": 85 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Delight thyself also in the Lord; and he shall give thee the desires of thine heart.",
+      "reference": "Psalm 37:4",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "HOPEFUL",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "hope", "weight": 90 },
+        { "key": "faith", "weight": 75 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Commit thy way unto the Lord; trust also in him; and he shall bring it to pass.",
+      "reference": "Psalm 37:5",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "DIRECT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "faith", "weight": 100 },
+        { "key": "guidance", "weight": 80 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee.",
+      "reference": "Isaiah 41:10",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "DIRECT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "strength", "weight": 100 },
+        { "key": "comfort", "weight": 95 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "When thou passest through the waters, I will be with thee.",
+      "reference": "Isaiah 43:2",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "comfort", "weight": 95 },
+        { "key": "protection", "weight": 85 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "My grace is sufficient for thee: for my strength is made perfect in weakness.",
+      "reference": "2 Corinthians 12:9",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "comfort", "weight": 90 },
+        { "key": "strength", "weight": 100 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "Let not your heart be troubled: ye believe in God, believe also in me.",
+      "reference": "John 14:1",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "peace", "weight": 95 },
+        { "key": "faith", "weight": 80 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "This is the day which the Lord hath made; we will rejoice and be glad in it.",
+      "reference": "Psalm 118:24",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "JOYFUL",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "gratitude", "weight": 100 },
+        { "key": "joy", "weight": 90 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "O give thanks unto the Lord; for he is good: for his mercy endureth for ever.",
+      "reference": "Psalm 107:1",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "JOYFUL",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "gratitude", "weight": 100 },
+        { "key": "love", "weight": 70 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "We love him, because he first loved us.",
+      "reference": "1 John 4:19",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "love", "weight": 100 },
+        { "key": "faith", "weight": 70 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "A merry heart doeth good like a medicine.",
+      "reference": "Proverbs 17:22",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "JOYFUL",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "joy", "weight": 100 },
+        { "key": "healing", "weight": 75 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "He healeth the broken in heart, and bindeth up their wounds.",
+      "reference": "Psalm 147:3",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "SOFT",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "healing", "weight": 100 },
+        { "key": "comfort", "weight": 95 }
+      ]
+    },
+    {
+      "type": "VERSE",
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.",
+      "reference": "Jeremiah 29:11",
+      "language": "en",
+      "tradition": "ALL",
+      "tone": "HOPEFUL",
+      "source": "KJV",
+      "isPremium": false,
+      "tags": [
+        { "key": "hope", "weight": 100 },
+        { "key": "peace", "weight": 80 }
+      ]
+    }
+  ]
+
+
 ]
